@@ -368,7 +368,7 @@ def header(current):
 </div></div>
 <header class="hd" data-header>
   <div class="wrap hd-in">
-    <a class="brand" href="/" aria-label="Artisan Robin, charpentier couvreur zingueur, accueil">{LG.svg("horizontal", "color", title="", cls="brand-svg")}</a>
+    <a class="brand" href="/" aria-label="Artisan Robin, charpentier couvreur zingueur, accueil"><img class="brand-svg" src="/assets/logo-h.svg" width="340" height="43" alt="Artisan Robin, charpentier couvreur zingueur"></a>
     <nav class="nav" id="nav" aria-label="Navigation principale">
       <ul class="nav-list">
         <li class="has-sub{on}"><details class="sub"><summary>Couverture{ICONS['chev']}</summary>
@@ -398,7 +398,7 @@ def footer(cls=""):
   <div class="ft-stripe" aria-hidden="true"></div>
   <div class="wrap ft-grid">
     <div class="ft-id">
-      <a href="/" aria-label="Artisan Robin, accueil">{LG.svg("stacked", "light", title="", cls="ft-logo")}</a>
+      <a href="/" aria-label="Artisan Robin, accueil"><img class="ft-logo" src="/assets/logo-light.svg" width="200" height="132" alt="Artisan Robin, charpentier couvreur zingueur" loading="lazy"></a>
       <p>Charpentier, couvreur et zingueur à Thorigny-sur-Marne et dans un rayon de 15 km : réfection, réparation, zinguerie, isolation, charpente. Urgences 7 jours sur 7.</p>
       <address>
         <p>{ICONS['tel']}<span><a href="tel:{B['phone_e164']}">{B['phone']}</a>, 7 j/7</span></p>
@@ -1139,7 +1139,7 @@ def build_article(a):
 <div class="wrap body-grid">
 <article class="art art-post">{secs}
 {f'<section class="art-sec sources" aria-labelledby="src-t"><h2 id="src-t">Sources</h2><ul>{src}</ul></section>' if src else ''}
-<aside class="author"><div class="author-mark">{LG.svg("mark", "color", title="")}</div><div><p class="author-n">{esc(B['manager'])}</p><p>Charpentier, couvreur et zingueur depuis plus de {B['years']} ans, gérant d'ARTISAN ROBIN COUVERTURE. Plus de {B['jobs']} chantiers de toiture en Seine-et-Marne et en Île-de-France.</p></div></aside>
+<aside class="author"><div class="author-mark"><img src="/assets/logo-mark.svg" width="72" height="31" alt="" loading="lazy"></div><div><p class="author-n">{esc(B['manager'])}</p><p>Charpentier, couvreur et zingueur depuis plus de {B['years']} ans, gérant d'ARTISAN ROBIN COUVERTURE. Plus de {B['jobs']} chantiers de toiture en Seine-et-Marne et en Île-de-France.</p></div></aside>
 </article>
 <div class="aside-col">
 <nav class="toc" aria-label="Sommaire"><h2>Sommaire</h2><ol>{toc}</ol></nav>
@@ -1232,6 +1232,8 @@ def copy_assets():
         write(fn, data)
         ASSETS[kind] = fn
     write("/assets/logo.svg", LG.svg("stacked", "color"))
+    write("/assets/logo-h.svg", LG.svg("horizontal", "color"))
+    write("/assets/logo-mark.svg", LG.svg("mark", "color"))
     write("/assets/logo-light.svg", LG.svg("stacked", "light"))
     write("/favicon.svg", LG.favicon())
     if os.path.isdir(IMG_OUT):
