@@ -1,0 +1,317 @@
+{
+ "depose-pavillon-mitoyen-apres": {
+  "w": 848,
+  "h": 487,
+  "sizes": [
+   480,
+   848
+  ],
+  "alt": "Même toiture après dépose : écran sous-toiture et liteaux neufs posés",
+  "tags": [
+   "avant-apres",
+   "tuiles",
+   "chantier"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": "depose-pavillon-mitoyen",
+  "label": "Dépose faite",
+  "role": "apres"
+ },
+ "depose-pavillon-mitoyen-avant": {
+  "w": 848,
+  "h": 487,
+  "sizes": [
+   480,
+   848
+  ],
+  "alt": "Pavillon mitoyen avant la dépose : ancienne couverture en tuiles",
+  "tags": [
+   "avant-apres",
+   "tuiles",
+   "chantier"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": "depose-pavillon-mitoyen",
+  "label": "Avant",
+  "role": "avant"
+ },
+ "couvreurs-pose-tuiles-pavillon": {
+  "w": 1600,
+  "h": 950,
+  "sizes": [
+   480,
+   960,
+   1600
+  ],
+  "alt": "Deux couvreurs posent les tuiles neuves sur les liteaux d'un pavillon",
+  "tags": [
+   "chantier",
+   "tuiles"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "livraison-tuiles-camion-grue": {
+  "w": 938,
+  "h": 938,
+  "sizes": [
+   480,
+   938
+  ],
+  "alt": "Livraison des tuiles par camion-grue directement sur le toit en cours de réfection",
+  "tags": [
+   "chantier",
+   "tuiles"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "pose-tuiles-liteaux-neufs": {
+  "w": 1200,
+  "h": 1600,
+  "sizes": [
+   480,
+   960,
+   1200
+  ],
+  "alt": "Réfection en cours : tuiles réparties sur les liteaux neufs avant la pose",
+  "tags": [
+   "chantier",
+   "tuiles",
+   "charpente"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "refection-pavillon-cheminee-pendant": {
+  "w": 1600,
+  "h": 960,
+  "sizes": [
+   480,
+   960,
+   1600
+  ],
+  "alt": "Pendant la réfection : liteaux neufs et pose des tuiles autour de la cheminée",
+  "tags": [
+   "chantier",
+   "tuiles",
+   "cheminee"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "maison-echafaudage-versant-bache": {
+  "w": 1024,
+  "h": 559,
+  "sizes": [
+   480,
+   960,
+   1024
+  ],
+  "alt": "Maison sous échafaudage, versant bâché pendant la réfection de la couverture",
+  "tags": [
+   "echafaudage",
+   "urgence",
+   "chantier"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "refection-toiture-echafaudage-charpente": {
+  "w": 1920,
+  "h": 1030,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1600
+  ],
+  "alt": "Réfection de toiture sous échafaudage : charpente et liteaux neufs au faîtage, tuiles terre cuite",
+  "tags": [
+   "echafaudage",
+   "charpente",
+   "tuiles"
+  ],
+  "city": "",
+  "hero": true,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "refection-toiture-immeuble-echafaudage": {
+  "w": 1920,
+  "h": 1030,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1600
+  ],
+  "alt": "Réfection de la toiture d'un immeuble d'angle sous échafaudage, filets de protection en rive",
+  "tags": [
+   "echafaudage",
+   "tuiles",
+   "chantier"
+  ],
+  "city": "",
+  "hero": true,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "couvreur-artisan-robin-chantier-pavillon": {
+  "w": 1920,
+  "h": 1030,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1600
+  ],
+  "alt": "Couvreur d'Artisan Robin sur une toiture en tuiles, monte-matériaux et camionnette de l'entreprise devant le pavillon",
+  "tags": [
+   "equipe",
+   "tuiles",
+   "chantier"
+  ],
+  "city": "",
+  "hero": true,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "gouttiere-zinc-pignon": {
+  "w": 1200,
+  "h": 1600,
+  "sizes": [
+   480,
+   960,
+   1200
+  ],
+  "alt": "Gouttière et descente en zinc posées le long d'un pignon, avant l'habillage de la sous-face",
+  "tags": [
+   "gouttiere",
+   "zinc"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "pavillon-toiture-refaite-rives-gouttieres": {
+  "w": 1200,
+  "h": 1600,
+  "sizes": [
+   480,
+   960,
+   1200
+  ],
+  "alt": "Pavillon après réfection : couverture en tuiles mécaniques, rives et gouttières neuves, camionnette Artisan Robin",
+  "tags": [
+   "tuiles",
+   "gouttiere",
+   "equipe"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "refection-pavillon-cheminee-termine": {
+  "w": 1600,
+  "h": 925,
+  "sizes": [
+   480,
+   960,
+   1600
+  ],
+  "alt": "Le même pavillon après réfection : tuiles neuves, rives et faîtage refaits",
+  "tags": [
+   "tuiles",
+   "cheminee",
+   "equipe"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "rive-et-tuiles-neuves": {
+  "w": 1200,
+  "h": 1600,
+  "sizes": [
+   480,
+   960,
+   1200
+  ],
+  "alt": "Versant refait en tuiles mécaniques neuves, rive protégée par une bande métallique",
+  "tags": [
+   "tuiles",
+   "zinc"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "versant-tuiles-neuves-rive-bois": {
+  "w": 1600,
+  "h": 1200,
+  "sizes": [
+   480,
+   960,
+   1600
+  ],
+  "alt": "Versant refait en tuiles neuves, rive et bandeau en bois neufs, souche de cheminée en brique",
+  "tags": [
+   "tuiles",
+   "charpente",
+   "cheminee"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ },
+ "gouttiere-descente-zinc-sous-face": {
+  "w": 1200,
+  "h": 1600,
+  "sizes": [
+   480,
+   960,
+   1200
+  ],
+  "alt": "Gouttière et descente en zinc neuves, coudes façonnés, rive en tuiles et sous-face habillée",
+  "tags": [
+   "zinc",
+   "gouttiere"
+  ],
+  "city": "",
+  "hero": false,
+  "pair": null,
+  "label": "",
+  "role": ""
+ }
+}

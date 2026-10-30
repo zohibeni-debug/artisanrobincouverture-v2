@@ -1,1 +1,141 @@
-{}
+{
+ "couvreur-artisan-robin-chantier-pavillon": {
+  "alt": "Couvreur d'Artisan Robin sur une toiture en tuiles, monte-matériaux et camionnette de l'entreprise devant le pavillon",
+  "tags": [
+   "equipe",
+   "tuiles",
+   "chantier"
+  ],
+  "hero": true
+ },
+ "refection-toiture-echafaudage-charpente": {
+  "alt": "Réfection de toiture sous échafaudage : charpente et liteaux neufs au faîtage, tuiles terre cuite",
+  "tags": [
+   "echafaudage",
+   "charpente",
+   "tuiles"
+  ],
+  "hero": true
+ },
+ "refection-toiture-immeuble-echafaudage": {
+  "alt": "Réfection de la toiture d'un immeuble d'angle sous échafaudage, filets de protection en rive",
+  "tags": [
+   "echafaudage",
+   "tuiles",
+   "chantier"
+  ],
+  "hero": true
+ },
+ "gouttiere-descente-zinc-sous-face": {
+  "alt": "Gouttière et descente en zinc neuves, coudes façonnés, rive en tuiles et sous-face habillée",
+  "tags": [
+   "zinc",
+   "gouttiere"
+  ],
+  "hero": false
+ },
+ "gouttiere-zinc-pignon": {
+  "alt": "Gouttière et descente en zinc posées le long d'un pignon, avant l'habillage de la sous-face",
+  "tags": [
+   "gouttiere",
+   "zinc"
+  ],
+  "hero": false
+ },
+ "pavillon-toiture-refaite-rives-gouttieres": {
+  "alt": "Pavillon après réfection : couverture en tuiles mécaniques, rives et gouttières neuves, camionnette Artisan Robin",
+  "tags": [
+   "tuiles",
+   "gouttiere",
+   "equipe"
+  ],
+  "hero": false
+ },
+ "livraison-tuiles-camion-grue": {
+  "alt": "Livraison des tuiles par camion-grue directement sur le toit en cours de réfection",
+  "tags": [
+   "chantier",
+   "tuiles"
+  ],
+  "hero": false
+ },
+ "pose-tuiles-liteaux-neufs": {
+  "alt": "Réfection en cours : tuiles réparties sur les liteaux neufs avant la pose",
+  "tags": [
+   "chantier",
+   "tuiles",
+   "charpente"
+  ],
+  "hero": false
+ },
+ "rive-et-tuiles-neuves": {
+  "alt": "Versant refait en tuiles mécaniques neuves, rive protégée par une bande métallique",
+  "tags": [
+   "tuiles",
+   "zinc"
+  ],
+  "hero": false
+ },
+ "maison-echafaudage-versant-bache": {
+  "alt": "Maison sous échafaudage, versant bâché pendant la réfection de la couverture",
+  "tags": [
+   "echafaudage",
+   "urgence",
+   "chantier"
+  ],
+  "hero": false
+ },
+ "versant-tuiles-neuves-rive-bois": {
+  "alt": "Versant refait en tuiles neuves, rive et bandeau en bois neufs, souche de cheminée en brique",
+  "tags": [
+   "tuiles",
+   "charpente",
+   "cheminee"
+  ],
+  "hero": false
+ },
+ "couvreurs-pose-tuiles-pavillon": {
+  "alt": "Deux couvreurs posent les tuiles neuves sur les liteaux d'un pavillon",
+  "tags": [
+   "chantier",
+   "tuiles"
+  ],
+  "hero": false
+ },
+ "refection-pavillon-cheminee-pendant": {
+  "alt": "Pendant la réfection : liteaux neufs et pose des tuiles autour de la cheminée",
+  "tags": [
+   "chantier",
+   "tuiles",
+   "cheminee"
+  ],
+  "hero": false
+ },
+ "refection-pavillon-cheminee-termine": {
+  "alt": "Le même pavillon après réfection : tuiles neuves, rives et faîtage refaits",
+  "tags": [
+   "tuiles",
+   "cheminee",
+   "equipe"
+  ],
+  "hero": false
+ },
+ "depose-pavillon-mitoyen-avant": {
+  "alt": "Pavillon mitoyen avant la dépose : ancienne couverture en tuiles",
+  "tags": [
+   "avant-apres",
+   "tuiles",
+   "chantier"
+  ],
+  "label": "Avant"
+ },
+ "depose-pavillon-mitoyen-apres": {
+  "alt": "Même toiture après dépose : écran sous-toiture et liteaux neufs posés",
+  "tags": [
+   "avant-apres",
+   "tuiles",
+   "chantier"
+  ],
+  "label": "Dépose faite"
+ }
+}

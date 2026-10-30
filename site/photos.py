@@ -67,7 +67,7 @@ def main():
             if key.endswith("-avant") or key.endswith("-apres"):
                 pair = key.rsplit("-", 1)[0]
             meta[key] = {"w": im.size[0], "h": im.size[1], "sizes": widths, "alt": m.get("alt", ""), "tags": tags,
-                         "city": m.get("city", ""), "hero": bool(m.get("hero")), "pair": pair,
+                         "city": m.get("city", ""), "hero": bool(m.get("hero")), "pair": pair, "label": m.get("label", ""),
                          "role": key.rsplit("-", 1)[1] if pair else ""}
             print(f"{key:40} {im.size[0]}x{im.size[1]} {','.join(tags)}")
     json.dump(meta, open(JSON_OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

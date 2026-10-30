@@ -253,7 +253,7 @@ def before_after(av, ap, label):
     return f"""<figure class="ba" data-ba style="--pos:50%">
 <div class="ba-img ba-after">{img(ap, alt_of(ap), "(min-width: 960px) 60vw, 100vw")}</div>
 <div class="ba-img ba-before" aria-hidden="true">{img(av, alt_of(av), "(min-width: 960px) 60vw, 100vw")}</div>
-<span class="ba-tag ba-tag-b">Avant</span><span class="ba-tag ba-tag-a">Après</span>
+<span class="ba-tag ba-tag-b">{esc(PHOTOS[av].get("label") or "Avant")}</span><span class="ba-tag ba-tag-a">{esc(PHOTOS[ap].get("label") or "Après")}</span>
 <input type="range" min="0" max="100" value="50" aria-label="{esc(label)} : faites glisser pour comparer avant et après">
 <figcaption>{esc(label)}</figcaption></figure>"""
 
@@ -278,6 +278,8 @@ def org_schema():
         "telephone": B["phone_e164"],
         "email": B["email"],
         "priceRange": "€€",
+        "contactPoint": [{"@type": "ContactPoint", "telephone": B["phone_e164"], "contactType": "customer service", "availableLanguage": "fr"},
+                         {"@type": "ContactPoint", "telephone": B["phone2_e164"], "contactType": "customer service", "availableLanguage": "fr"}],
         "address": {"@type": "PostalAddress", "streetAddress": B["street"], "postalCode": B["postcode"],
                     "addressLocality": B["city"], "addressRegion": "Île-de-France", "addressCountry": "FR"},
         "geo": {"@type": "GeoCoordinates", "latitude": B["lat"], "longitude": B["lon"]},
@@ -401,7 +403,7 @@ def footer(cls=""):
       <a href="/" aria-label="Artisan Robin, accueil"><img class="ft-logo" src="/assets/logo-light.svg" width="200" height="132" alt="Artisan Robin, charpentier couvreur zingueur" loading="lazy"></a>
       <p>Charpentier, couvreur et zingueur à Thorigny-sur-Marne et dans un rayon de 15 km : réfection, réparation, zinguerie, isolation, charpente. Urgences 7 jours sur 7.</p>
       <address>
-        <p>{ICONS['tel']}<span><a href="tel:{B['phone_e164']}">{B['phone']}</a>, 7 j/7</span></p>
+        <p>{ICONS['tel']}<span><a href="tel:{B['phone_e164']}">{B['phone']}</a>, 7 j/7<br>Fixe : <a href="tel:{B['phone2_e164']}">{B['phone2']}</a></span></p>
         <p>{ICONS['mail']}<span><a href="mailto:{B['email']}">{B['email']}</a></span></p>
         <p>{ICONS['pin']}<span>{esc(B['name'])}<br>{esc(B['street'])}, {B['postcode']} {B['city']}</span></p>
       </address>
@@ -647,7 +649,7 @@ def build_home():
         p, av, ap = prs[0]
         others = "".join(f"<li>{before_after(a, b, alt_of(b))}</li>" for _, a, b in prs[1:3]) if len(prs) >= 3 else ""
         ba = f"""<section class="sec sec-dark" aria-labelledby="ba-t"><div class="wrap ba-grid">
-<div class="ba-txt">{STRIPES}<h2 id="ba-t">Avant, après</h2><p>Faites glisser le curseur : la même toiture, avant notre passage et une fois le chantier terminé.</p><a class="btn btn-white" href="/realisations"><span>Toutes nos réalisations</span>{ICONS['arrow']}</a></div>
+<div class="ba-txt">{STRIPES}<h2 id="ba-t">Avant, après</h2><p>Faites glisser le curseur : la même toiture, avant notre passage puis une fois la vieille couverture déposée, écran sous-toiture et liteaux neufs en place.</p><a class="btn btn-white" href="/realisations"><span>Toutes nos réalisations</span>{ICONS['arrow']}</a></div>
 {before_after(av, ap, alt_of(ap))}</div>{f'<div class="wrap"><ul class="ba-more">{others}</ul></div>' if others else ''}</section>"""
     gal = gallery([], 10, "home-gal", "Nos chantiers en photos", exclude=([first] if first else []), cls="gal gal-masonry", hid="chantiers-t",
                   intro='Réfections, réparations, zinguerie, charpente : quelques-uns de nos chantiers. <a href="/realisations">Voir toutes les réalisations</a>')
@@ -1066,6 +1068,7 @@ def build_contact():
 <p class="lead">Appelez-nous ou décrivez votre projet : on vous rappelle pour convenir d'une visite gratuite, et vous recevez un devis détaillé sous 24 heures. Une fuite ? Appelez directement, 7 jours sur 7.</p></div>
 <div class="contact-card">
 <p class="cc-l">Téléphone, 7 j/7</p><p class="cc-tel"><a href="tel:{B['phone_e164']}">{B['phone']}</a></p>
+<p class="cc-l">Fixe</p><p><a href="tel:{B['phone2_e164']}">{B['phone2']}</a></p>
 <p class="cc-l">Email</p><p><a href="mailto:{B['email']}">{B['email']}</a></p>
 <p class="cc-l">Secteur</p><p>Thorigny-sur-Marne et {len(ZONES)} communes autour</p>
 <p class="cc-l">Siège</p><p>{esc(B['name'])}<br>{esc(B['street'])}<br>{B['postcode']} {B['city']}</p>
@@ -1165,7 +1168,7 @@ def build_legal():
     ident.append(f"{esc(B['street'])}, {B['postcode']} {B['city']}")
     if A["siret"]:
         ident.append(f"SIRET : {esc(A['siret'])}")
-    ident.append(f"Téléphone : {B['phone']}, email : <a href=\"mailto:{B['email']}\">{B['email']}</a>")
+    ident.append(f"Téléphone : {B['phone']} ou {B['phone2']}, email : <a href=\"mailto:{B['email']}\">{B['email']}</a>")
     if A["dirigeant"]:
         ident.append(f"Directeur de la publication : {esc(A['dirigeant'])}")
     extra = ""

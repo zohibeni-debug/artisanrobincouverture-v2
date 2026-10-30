@@ -14,6 +14,9 @@ BUSINESS = {
     "phone": "07 64 07 31 49",
     "phone_e164": "+33764073149",
     "whatsapp": "33764073149",
+    # Ligne fixe affichée sur les camionnettes et les bâches de chantier
+    "phone2": "09 82 27 89 92",
+    "phone2_e164": "+33982278992",
     "email": "contact@artisanrobincouverture.fr",
     # Adresse administrative actuelle. À remplacer si l'entreprise a désormais une adresse à Thorigny-sur-Marne.
     "street": "22 avenue Augustin Pilardeau",
@@ -35,7 +38,7 @@ BUSINESS = {
 
 # Points à confirmer avec le client : vides = non affichés.
 A_CONFIRMER = {
-    "siret": "",
+    "siret": "829 474 568 00013",  # relevé sur la camionnette de l'entreprise : à vérifier sur annuaire-entreprises.data.gouv.fr
     "forme": "",
     "dirigeant": "Dusty Robin",
     "assureur": "",
