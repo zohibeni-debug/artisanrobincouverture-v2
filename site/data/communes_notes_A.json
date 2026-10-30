@@ -1,0 +1,696 @@
+[
+ {
+  "slug": "thorigny-sur-marne",
+  "name": "Thorigny-sur-Marne",
+  "bati": "Thorigny-sur-Marne s'étage sur un coteau orienté plein sud, entre 41 et 123 m d'altitude, dont les pentes ont longtemps porté de la vigne. Le centre-ville se groupe autour de la petite église Saint-Martin et de sa fontaine, avec la mairie, les commerces, la résidence de la Sablière et la cité SNCF, témoin du rôle du chemin de fer depuis l'inauguration de la gare de la ligne Paris-Strasbourg en 1849 (le bâtiment actuel date de 1962). Le parc de logements est partagé presque à parts égales entre maisons et appartements (49 % de maisons en 2014) : la zone pavillonnaire côtoie les résidences des Cerisiers, dont la « cité Grise » du Moulin à Vent, et les Hauts de Vallières. Au nord, les quartiers résidentiels comprennent des espaces boisés qui prolongent la forêt régionale des Vallières : sous ces arbres, mousses et feuilles encombrent vite tuiles, chéneaux et gouttières.",
+  "patrimoine": "",
+  "risques": "Les terrains bas des bords de Marne relèvent du PPRI de la vallée de la Marne approuvé en 2009, et d'anciennes carrières souterraines de gypse et de calcaire ont justifié un plan de prévention des risques de mouvements de terrain approuvé en 2013.",
+  "quartiers": [
+   "Centre-ville",
+   "Les Cerisiers",
+   "Les Épinettes",
+   "Les Samoreaux",
+   "Les Hauts de Vallières",
+   "Bords de Marne"
+  ],
+  "reperes": [
+   "Église Saint-Martin",
+   "Gare de Lagny - Thorigny",
+   "Aqueduc de la Dhuis",
+   "Forêt régionale des Vallières"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Thorigny-sur-Marne.html",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/190606_mrae_avis_delibere_revision_plu_de_thorigny-sur-marne_77_.pdf",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2021-09-22_avis_thorigny-sur-marne_pour_mrae_delibere.pdf",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf",
+   "https://pop.culture.gouv.fr/notice/palissy/PM77002777"
+  ]
+ },
+ {
+  "slug": "dampmart",
+  "name": "Dampmart",
+  "bati": "Le bourg de Dampmart occupe le coteau sud qui descend vers la Marne, sous un plateau agricole qui culmine à 123 m, et reste contenu entre l'aqueduc de la Dhuys au nord et à l'est, la voie ferrée et la rivière au sud. Le village a fortement grandi depuis la fin des années 1960 (1 243 habitants en 1968, près de 3 700 aujourd'hui) et l'habitat y est d'abord individuel : environ trois logements sur quatre sont des maisons. Les opérations récentes se concentrent sur l'ancienne ZAC des Cordonniers et le secteur de la Ferme. Les bois, qui couvrent près d'un quart du territoire, bordent l'agglomération au nord et à l'est : les toitures en lisière y reçoivent mousses, aiguilles et feuilles qui colmatent les gouttières.",
+  "patrimoine": "",
+  "risques": "Dampmart fait partie des communes couvertes par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé en 2009, qui encadre les terrains bas des bords de Marne.",
+  "quartiers": [
+   "Le bourg",
+   "Les Cordonniers",
+   "La Ferme",
+   "Bois des Vallières"
+  ],
+  "reperes": [
+   "Église Saint-Médard-et-Sainte-Anne",
+   "Aqueduc de la Dhuys",
+   "Passerelle de la Dhuys",
+   "Forêt des Vallières"
+  ],
+  "sources": [
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/avis_plu_dampmart-2.pdf",
+   "https://en.wikipedia.org/wiki/Dampmart",
+   "https://www.villesavivre.fr/dampmart-77155/",
+   "https://www.visorando.com/randonnee-les-boucles-de-la-marne-par-carnetin/",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf",
+   "https://www.cirkwi.com/it/circuit/56361-scoperta-della-valle-della-marne"
+  ]
+ },
+ {
+  "slug": "carnetin",
+  "name": "Carnetin",
+  "bati": "Carnetin est un petit village perché vers 125 m d'altitude au-dessus de la vallée de la Marne, sur un territoire d'à peine 1,6 km², classé « Village de caractère ». Il conserve l'église Saint-Antoine, construite aux XVIIe et XVIIIe siècles, un pigeonnier et la villa Righi, et la commune a racheté une ancienne maison de garde de l'aqueduc de la Dhuis, petit bâtiment du XIXe siècle. En position haute, les toitures sont davantage exposées au vent : faîtages, rives et solins méritent un contrôle après chaque coup de vent.",
+  "patrimoine": "",
+  "risques": "",
+  "quartiers": [
+   "Le village",
+   "La Croix",
+   "Chemin de la Dhuis"
+  ],
+  "reperes": [
+   "Église Saint-Antoine",
+   "Calvaire et table d'orientation sur la vallée de la Marne",
+   "Pigeonnier",
+   "Aqueduc de la Dhuis"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carnetin",
+   "https://www.visorando.com/randonnee-les-boucles-de-la-marne-par-carnetin/",
+   "https://www.demotivateur.fr/insolite/en-seine-et-marne-cette-maison-a-ete-vendue-pour-moins-de-100-euros-36935",
+   "https://www.cirkwi.com/fr/circuit/56366-le-balcon-sur-la-marne"
+  ]
+ },
+ {
+  "slug": "lagny-sur-marne",
+  "name": "Lagny-sur-Marne",
+  "bati": "Le centre de Lagny conserve sa trame médiévale : parcelles étroites, maisons bâties en profondeur et souvent en pignon sur rue, de R+1 à R+2, aux façades remaniées au XIXe siècle et aux toits à forte pente couverts de tuiles plates en terre cuite. Le XIXe siècle a ajouté des immeubles de plâtre aux façades ordonnancées, puis le début du XXe siècle la meulière associée à la brique, des écoles aux maisons de l'extension pavillonnaire. Les bords de Marne gardent des villas-chalets en bois, les faubourgs des maisons en retrait derrière leur jardin et quelques anciennes fermes à porche, comme rue Saint-Denis, avant les pavillons et ensembles résidentiels de la périphérie. Dans le centre ancien, une couverture en tuiles plates se reprend au plus près de l'existant, d'autant que le site patrimonial remarquable encadre jusqu'à l'implantation des panneaux solaires.",
+  "patrimoine": "Lagny compte plusieurs monuments historiques, dont l'église Notre-Dame-des-Ardents-et-Saint-Pierre (classée en 1886), l'ancienne église Saint-Furcy, l'ancienne abbaye Saint-Pierre devenue hôtel de ville, la fontaine Saint-Furcy et la maison des Cinq Pignons. Le centre relève en outre d'un site patrimonial remarquable approuvé le 13 septembre 2018, en trois secteurs : ville médiévale, extensions du XIXe siècle avec le hameau de Saint-Denis-du-Port, façade de la ville vue depuis la rive droite.",
+  "risques": "Les quartiers riverains de la Marne, centre compris, relèvent du PPRI de la vallée de la Marne approuvé en 2009, et la commune est aussi concernée par le retrait-gonflement des argiles et par d'anciennes carrières abandonnées.",
+  "quartiers": [
+   "Centre ancien",
+   "Saint-Denis-du-Port",
+   "Les Étoizies",
+   "Fort du Bois",
+   "Bois de Chigny"
+  ],
+  "reperes": [
+   "Église Notre-Dame-des-Ardents-et-Saint-Pierre",
+   "Hôtel de ville (ancienne abbaye Saint-Pierre)",
+   "Fontaine Saint-Furcy",
+   "Quais de la Marne"
+  ],
+  "sources": [
+   "https://www.lagny-sur-marne.fr/wp-content/uploads/2018/09/1.-Rapport-de-prÇsentation-1.pdf",
+   "https://www.lagny-sur-marne.fr/?p=8466",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/20171218_decision_casparcas_avap_lagny_77.pdf",
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "pomponne",
+  "name": "Pomponne",
+  "bati": "Pomponne est coupée en deux par ses grandes infrastructures (A104, voies ferrées, LGV) : le cœur de ville, au sud-est, prolonge Thorigny-sur-Marne autour de la gare et des deux ponts sur la Marne, tandis que le quartier résidentiel de la Pomponnette s'est développé au nord-ouest, entre le bois de Brou et le bois des Bouleaux. La commune garde l'église Saint-Pierre-Saint-Paul et le château de Pomponne, dont le parc est attribué à André Le Nôtre. En bord de Marne, le secteur des Quais (Gaudineau-Bizeau), qui compte plusieurs anciens sites industriels, fait l'objet d'une orientation d'aménagement. Près de la moitié du territoire étant boisée, les maisons proches des bois de Brou et des Bouleaux demandent un démoussage et un curage des gouttières plus fréquents.",
+  "patrimoine": "",
+  "risques": "La partie sud de la commune, le long de la Marne, est couverte par le PPRI de la vallée de la Marne approuvé en 2009, et le risque de remontée de nappe y est également identifié.",
+  "quartiers": [
+   "Cœur de ville",
+   "La Pomponnette",
+   "Les Quais",
+   "Bords de Marne"
+  ],
+  "reperes": [
+   "Château de Pomponne et son parc",
+   "Église Saint-Pierre-Saint-Paul",
+   "Gare de Lagny - Thorigny",
+   "Bois de Brou"
+  ],
+  "sources": [
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2025_05_24_pomponne_plu_revision_avis_delegue_1_.pdf",
+   "https://www.europeanheritagedays.com/fr/node/682850",
+   "https://www.guide-tourisme-france.com/VISITER/eglise-saint-pierre-saint-paul--pomponne-32530.htm",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "montevrain",
+  "name": "Montévrain",
+  "bati": "Montévrain a changé d'échelle avec la ville nouvelle de Marne-la-Vallée : la croissance s'accélère à partir de 1982, la population a été multipliée par sept entre 1990 et 2019 et 55 % des logements ont été construits entre 2006 et 2015. Au nord, côté Marne, le centre-bourg ancien garde des rues étroites, souvent à sens unique, entourées de tissus pavillonnaires. Au sud, les quartiers issus des ZAC d'EpaMarne, dont l'écoquartier des Roseaux (environ 153 ha), mêlent petits collectifs, maisons et activités, si bien que le logement collectif y est désormais majoritaire. Les couvertures les plus anciennes, donc les premières à refaire, se concentrent dans le bourg et ses premières extensions pavillonnaires.",
+  "patrimoine": "L'église Saint-Rémy est protégée au titre des monuments historiques : dans ses abords, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Les terrains bas du nord de la commune, en bord de Marne, sont des zones d'expansion des crues couvertes par le PPRI de la vallée de la Marne approuvé en 2009.",
+  "quartiers": [
+   "Centre-bourg",
+   "Écoquartier des Roseaux",
+   "Clos du Chêne",
+   "Centre urbain du Val d'Europe"
+  ],
+  "reperes": [
+   "Église Saint-Rémy",
+   "Berges de la Marne",
+   "Bois de Chigny",
+   "Avenue Thibaud-de-Champagne"
+  ],
+  "sources": [
+   "https://montevrain.fr/fileadmin/user_upload/1-1.SYNTHESE-PRESENTATION.pdf",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2024-04-03_montevrain_77_avis_revision_plu_avis_delibere.pdf",
+   "https://monumentum.fr/monument-historique/pa00087128/montevrain-eglise-saint-remy",
+   "https://areq.net/lang/fr/Chessy_(Seine-et-Marne).html",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "saint-thibault-des-vignes",
+  "name": "Saint-Thibault-des-Vignes",
+  "bati": "Saint-Thibault-des-Vignes s'est urbanisée très vite : l'espace rural est passé de 71 % à 25 % du territoire entre 1982 et 2008, sur un relief de crêtes et de coteaux entre les vallées de la Marne, de la Brosse et de la Gondoire. Le vieux village garde, autour de la place de l'Église et de la ruelle des Dames Maures, des maisons de village, des maisons à pans de bois et d'anciens corps de ferme reconvertis en logements rue de Lagny, avec une meulière très présente rue de Lagny et rue de Gouvernes et des modénatures en plâtre. Autour, avenue des Joncs ou chemin des Marattes, se succèdent villas, maisons de ville et pavillons des années 1950 et 1970, dont certains à toiture en pavillon ou asymétrique. La ZAC Centre-Bourg et de nouvelles opérations prévoient encore environ 900 logements.",
+  "patrimoine": "L'église Saint-Jean-Baptiste, romane et très remaniée, est classée monument historique depuis le 15 janvier 1974, et son périmètre délimité des abords couvre la rue de Gouvernes et une partie des rues de Lagny, de Torcy, des Coutures et de l'avenue des Joncs, où l'avis de l'architecte des Bâtiments de France est requis. La commune est aussi concernée par le site classé de la vallée des rus de la Brosse et de la Gondoire et par le site inscrit de la vallée de la Gondoire et des abords du château de Guermantes.",
+  "risques": "Les terrains bas proches de la Marne relèvent du PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé en 2009.",
+  "quartiers": [
+   "Vieux village",
+   "ZAC Centre-Bourg",
+   "Parc du Château",
+   "Étang de Laloy",
+   "Vallée de la Brosse"
+  ],
+  "reperes": [
+   "Église Saint-Jean-Baptiste",
+   "Château de la place de l'Église",
+   "Mairie-école de 1888",
+   "Étang de Laloy"
+  ],
+  "sources": [
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/8_OAP-Patrimoine.pdf",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2024-03-13_saint-thibault-des-vignes_77_revisionplu_avis_adopte.pdf",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "conches-sur-gondoire",
+  "name": "Conches-sur-Gondoire",
+  "bati": "Conches-sur-Gondoire s'étage sur les deux coteaux du ru de la Gondoire, séparés par des espaces naturels qui forment le cœur paysager de la commune. Le bâti le plus ancien se tient autour de l'église et de la mairie et le long de la rue du Fort du Bois, axe historique bordé de murs en pierre ; le haut du coteau nord, le long de la RD10, s'est couvert de maisons de la seconde moitié du XXe siècle, et le sud regroupe les quartiers du Laurençon et du Val Guermantes. L'habitat est très majoritairement individuel et 62,6 % des logements sont antérieurs à la première réglementation thermique de 1975 : beaucoup de toitures arrivent à l'âge d'une réfection, à coupler avec l'isolation des combles.",
+  "patrimoine": "L'église Notre-Dame est inscrite au titre des monuments historiques, avec un périmètre de protection de 500 m où les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France, et la commune est concernée par le site classé des vallées des rus de la Brosse et de la Gondoire.",
+  "risques": "L'aléa retrait-gonflement des argiles est moyen à fort sur la majeure partie de la commune, surtout au fond du vallon de la Gondoire, où s'ajoute un risque de remontée de nappe et d'inondation de caves.",
+  "quartiers": [
+   "Centre-bourg",
+   "Le Laurençon",
+   "Val Guermantes",
+   "Les Cèdres"
+  ],
+  "reperes": [
+   "Église Notre-Dame",
+   "Château et son parc",
+   "Ferme du Laurençon",
+   "Ru de la Gondoire"
+  ],
+  "sources": [
+   "https://www.conches-sur-gondoire.fr/media/www.conches-sur-gondoire.fr_1.3.-plu-conches-resume-non-technique-approuve-16-05-2024.pdf",
+   "https://www.conches-sur-gondoire.fr/media/www.conches-sur-gondoire.fr_conches-plu-panneau-etat-initial-11-03-22.pdf",
+   "https://monumentum.fr/monument-historique/pa00086898/conches-sur-gondoire-eglise-notre-dame"
+  ]
+ },
+ {
+  "slug": "chessy",
+  "name": "Chessy",
+  "bati": "Chessy est restée un village jusqu'au début des années 1980 (760 habitants en 1982) : le vieux bourg, installé au rebord du coteau au-dessus de la Marne, regroupe toujours l'essentiel de la population autour de l'église Saint-Nicolas, reconstruite en 1743, et du château qui abrite le siège de Val d'Europe Agglomération. Dans les années 1960-1970, des maisons de week-end se sont implantées sur le coteau, puis le Val d'Europe, créé en 1987, a apporté Disneyland Paris et, au début des années 2000, le centre urbain partagé avec Serris et Montévrain. Le vieux village a été largement rénové en 2011, avec de nouveaux logements et une place de part et d'autre de la rue Paul-Laguesse, et les appartements sont aujourd'hui majoritaires (59 % en 2016). Les maisons du coteau, qui ont désormais plus de cinquante ans, arrivent à l'âge des réfections de couverture.",
+  "patrimoine": "",
+  "risques": "Chessy fait partie des communes couvertes par le PPRI de la vallée de la Marne approuvé en 2009, qui encadre les terrains bas des bords de Marne.",
+  "quartiers": [
+   "Vieux bourg",
+   "Centre urbain du Val d'Europe",
+   "Les Cornilles",
+   "Les Tournelles"
+  ],
+  "reperes": [
+   "Église Saint-Nicolas",
+   "Château de Chessy et son parc",
+   "Gare de Marne-la-Vallée - Chessy",
+   "Sculptures de la Dhuys"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Chessy_(Seine-et-Marne).html",
+   "https://en.wikipedia.org/wiki/Chessy,_Seine-et-Marne",
+   "https://pop.culture.gouv.fr/notice/merimee/IA77000193",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf",
+   "https://www.cirkwi.com/it/circuit/56361-scoperta-della-valle-della-marne"
+  ]
+ },
+ {
+  "slug": "gouvernes",
+  "name": "Gouvernes",
+  "bati": "Gouvernes s'organise autour de son bourg, où l'église Saint-Germain fait face à la mairie, et de ses hameaux de Deuil et de Guermantes, dans la vallée des rus de la Brosse et de la Gondoire. Le bâti ancien rappelle le passé agricole et seigneurial : château de Deuil reconstruit au XIXe siècle derrière un porche qui remonterait au XVe siècle, hangar de la ferme du château de Guermantes, trois lavoirs, des puits et un calvaire. La protection des paysages a limité les extensions : un lotissement s'est installé en contrebas de l'étang de la Loy et une zone d'urbanisation est prévue au nord, au Clos Saint-Paires.",
+  "patrimoine": "Le château de Guermantes, dont l'emprise protégée s'étend sur Gouvernes, est protégé au titre des monuments historiques (façades et toitures, décors intérieurs, parc et allée d'accès, en partie classés), et la salle des catéchismes attenante à l'église Saint-Germain, ornée de peintures murales, est inscrite depuis 2009. Tout le territoire communal est en site inscrit, et ses espaces naturels et agricoles en site classé, autour du château et de son parc.",
+  "risques": "La commune n'a pas de PPRI mais ses points bas, rue Pasteur notamment, ont déjà été inondés, et l'aléa retrait-gonflement des argiles est moyen à fort dans une partie des zones bâties, surtout sur les coteaux.",
+  "quartiers": [
+   "Le bourg",
+   "Hameau de Deuil",
+   "Hameau de Guermantes",
+   "Clos Saint-Paires",
+   "Étang de la Loy"
+  ],
+  "reperes": [
+   "Église Saint-Germain",
+   "Château de Deuil",
+   "Château de Guermantes",
+   "Étang de la Loy"
+  ],
+  "sources": [
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/demande_de_la_commune_de_gouvernes.pdf",
+   "https://pop.culture.gouv.fr/notice/merimee/PA77000025",
+   "https://pop.culture.gouv.fr/notice/merimee/PA00087025"
+  ]
+ },
+ {
+  "slug": "chanteloup-en-brie",
+  "name": "Chanteloup-en-Brie",
+  "bati": "Chanteloup-en-Brie est passée de 463 habitants en 1982 à environ 4 000 en 2021, en se développant à partir des années 1980 dans le cadre des ZAC d'État de Marne-la-Vallée, sur le plateau de la Brie. Le centre historique, autour de la mairie et de l'église Saint-Eutrope, garde quelques éléments architecturaux anciens et des commerces en rez-de-chaussée ; il est entouré de quartiers pavillonnaires, puis de la ZAC du Chêne Saint-Fiacre, encore en cours d'aménagement. Au sud, le château de Fontenelle et son parc font face, au nord, au bois de Chigny. Pour les constructions neuves, le PLU impose de végétaliser les toits plats et terrasses exposés à la vue.",
+  "patrimoine": "Le PLU protège l'église Saint-Eutrope et la maison qui la jouxte comme éléments constitutifs du centre historique, avec un périmètre inconstructible autour de l'église.",
+  "risques": "",
+  "quartiers": [
+   "Centre-bourg",
+   "ZAC du Chêne Saint-Fiacre",
+   "Clos du Chêne",
+   "Les Gassets",
+   "Fontenelle"
+  ],
+  "reperes": [
+   "Église Saint-Eutrope",
+   "Château de Fontenelle",
+   "Bois de Chigny",
+   "Ru de la Gondoire"
+  ],
+  "sources": [
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2025-03-26_chanteloup-en-brie_77_revision_plu-delibere.pdf",
+   "https://www.chanteloupenbrie.fr/wp-content/uploads/2025/01/PADD-ANNEXE.pdf"
+  ]
+ },
+ {
+  "slug": "guermantes",
+  "name": "Guermantes",
+  "bati": "Guermantes est une petite commune de plateau (1,26 km², entre 97 et 121 m d'altitude) qui ne comptait que 154 habitants en 1962, avant une urbanisation rapide : 489 habitants en 1982, 1 128 en 1990. Ce développement a produit un habitat presque entièrement individuel (87 % de maisons en 2016), dont une bonne part de maisons des années 1975-1990 qui entrent dans l'âge des premiers gros entretiens de couverture. L'église Saint-Christophe-et-Saint-Jacques-le-Majeur, construite en 1707 sur des plans de François Romain, architecte du roi, domine la vallée de la Gondoire, tandis que le château, en brique et pierre, porte de hautes toitures d'ardoise.",
+  "patrimoine": "Le château de Guermantes, bâti au XVIIe siècle et remanié au début du XVIIIe, est protégé au titre des monuments historiques (en partie classé, avec son parc dessiné par Le Nôtre et son allée d'accès), et la commune est concernée par le site inscrit de la vallée de la Gondoire et des abords du château de Guermantes.",
+  "risques": "",
+  "quartiers": [
+   "Le bourg",
+   "Place de l'Église",
+   "Avenue des Deux Châteaux"
+  ],
+  "reperes": [
+   "Château de Guermantes",
+   "Église Saint-Christophe-et-Saint-Jacques-le-Majeur",
+   "Vallée de la Gondoire"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Guermantes.html",
+   "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Guermantes",
+   "https://pop.culture.gouv.fr/notice/merimee/PA00087025",
+   "https://www.guide-tourisme-france.com/VISITER/eglise-saint-christophe-saint-jacques-majeur--guermante-32561.htm",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2024-03-13_saint-thibault-des-vignes_77_revisionplu_avis_adopte.pdf"
+  ]
+ },
+ {
+  "slug": "chalifert",
+  "name": "Chalifert",
+  "bati": "Chalifert s'allonge du nord au sud le long des départementales D5 et D45, entre la Marne à l'ouest, dont les parties basses sont humides et inondables, et des coteaux abrupts densément boisés à l'est. Le bourg a gardé un caractère villageois et très végétal autour du château, de la mairie et de l'école. La commune est marquée par le canal de Meaux à Chalifert, ouvert en 1846, dont le souterrain d'environ 300 m porte son nom et qui aboutit à un port de plaisance, ainsi que par les voies de la ligne Paris-Meaux et de la LGV Interconnexion Est. Au pied des coteaux boisés, feuilles et humidité chargent les toitures : démoussage et curage des gouttières y reviennent souvent.",
+  "patrimoine": "",
+  "risques": "Les parties basses des bords de Marne relèvent du PPRI de la vallée de la Marne approuvé en 2009.",
+  "quartiers": [
+   "Le bourg",
+   "Clos des Haies Saint-Éloi",
+   "Marais de Lesches",
+   "Port de plaisance"
+  ],
+  "reperes": [
+   "Canal de Meaux à Chalifert et son souterrain",
+   "Écluse de Chalifert",
+   "Château de Chalifert",
+   "Bords de Marne"
+  ],
+  "sources": [
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2023-04-06_avis_chalifert_plu-rev_avis_delibere.pdf",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/180517_mrae_avis_plu_chalifert_77_delibere.pdf",
+   "https://en.wikipedia.org/wiki/Chalifert_Tunnel",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf",
+   "https://www.decathlon-outdoor.com/fr-fr/explore/france/echappee-a-velo-et-longer-la-riviere-de-la-marne-6062d4a788927"
+  ]
+ },
+ {
+  "slug": "annet-sur-marne",
+  "name": "Annet-sur-Marne",
+  "bati": "Annet-sur-Marne s'étire de la rive droite de la Marne (38 m) jusqu'aux hauteurs qui culminent à 133 m, le bourg se tenant vers 50 m d'altitude, sur un territoire encore agricole pour moitié et boisé pour un quart. Le village a presque triplé sa population entre 1962 (1 178 habitants) et 2006 (3 198), et l'habitat est resté très majoritairement individuel : 80 % de maisons en 2013. Trois anciens domaines marquent le territoire, chacun avec son parc : le château d'Étry du XVIIIe siècle, le château de Louche reconstruit dans la première moitié du XIXe siècle et devenu maison de retraite, et le château de Sannois rebâti en 1840. L'église Saint-Germain associe des parties du XVIIIe et du XXe siècle.",
+  "patrimoine": "",
+  "risques": "Annet-sur-Marne fait partie des communes couvertes par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé en 2009, qui encadre les terrains bas des bords de Marne.",
+  "quartiers": [
+   "Le bourg",
+   "Domaine d'Étry",
+   "Domaine de Louche",
+   "Domaine de Sannois"
+  ],
+  "reperes": [
+   "Église Saint-Germain",
+   "Château d'Étry",
+   "Île de loisirs de Jablines-Annet",
+   "Aqueduc de la Dhuis"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Annet-sur-Marne.html",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "bussy-saint-martin",
+  "name": "Bussy-Saint-Martin",
+  "bati": "",
+  "patrimoine": "L'église Saint-Martin est protégée au titre des monuments historiques : dans ses abords, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "",
+  "quartiers": [],
+  "reperes": [
+   "Église Saint-Martin"
+  ],
+  "sources": [
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne"
+  ]
+ },
+ {
+  "slug": "jablines",
+  "name": "Jablines",
+  "bati": "",
+  "patrimoine": "Le gisement archéologique du Haut Château est protégé au titre des monuments historiques.",
+  "risques": "Jablines fait partie des communes couvertes par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé en 2009.",
+  "quartiers": [
+   "Le village",
+   "Le Haut Château"
+  ],
+  "reperes": [
+   "Île de loisirs de Jablines-Annet",
+   "Bords de Marne"
+  ],
+  "sources": [
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne",
+   "https://areq.net/lang/fr/Annet-sur-Marne.html",
+   "https://www.visorando.com/randonnee-annet-sur-marne.html",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "bussy-saint-georges",
+  "name": "Bussy-Saint-Georges",
+  "bati": "Bussy-Saint-Georges était un village d'environ 500 habitants en 1980 avant de devenir, par un décret de 1985, le cœur du secteur III (Val de Bussy) de la ville nouvelle de Marne-la-Vallée, qui a multiplié sa population par quarante. Le vieux village garde sa mairie de 1850, l'église Saint-Georges bâtie de 1580 à 1595 (clocher de 32 m rehaussé en 1866) et une tour de 21 m, seul vestige du château, que l'on fait remonter au XIIe siècle. L'essentiel du bâti date donc d'après 1985, sur un plateau entre 63 et 130 m d'altitude, et le parc est aujourd'hui à 70 % collectif (29,7 % de maisons en 2018). Les maisons des premiers quartiers de la ville nouvelle approchent la quarantaine : c'est l'âge où gouttières, solins et faîtages demandent une première révision sérieuse.",
+  "patrimoine": "Deux ensembles sont protégés au titre des monuments historiques : le domaine du Génitoy, ancien fief dont la ferme a vu naître en 1672 un enfant de Madame de Montespan, et la tour-pigeonnier de Bussy-Saint-Georges.",
+  "risques": "",
+  "quartiers": [
+   "Vieux village",
+   "Centre-ville",
+   "Le Génitoy",
+   "La Rucherie"
+  ],
+  "reperes": [
+   "Église Saint-Georges",
+   "Tour du vieux village",
+   "Ferme du Génitoy",
+   "Mairie de 1850"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Bussy-Saint-Georges.html",
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne"
+  ]
+ },
+ {
+  "slug": "lesches",
+  "name": "Lesches",
+  "bati": "Lesches est un petit village de quelque 770 habitants sur 4 km², étagé entre 40 et 107 m d'altitude au-dessus de la Marne, dont le territoire est traversé par le canal de Meaux à Chalifert, ouvert en 1846.",
+  "patrimoine": "",
+  "risques": "Lesches fait partie des communes couvertes par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé en 2009.",
+  "quartiers": [
+   "Le village",
+   "Marais de Lesches"
+  ],
+  "reperes": [
+   "Canal de Meaux à Chalifert",
+   "Marais de Lesches",
+   "Bords de Marne"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lesches,_Seine-et-Marne",
+   "https://en.wikipedia.org/wiki/Meaux-Chalifert_Canal",
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/2023-04-06_avis_chalifert_plu-rev_avis_delibere.pdf",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "coupvray",
+  "name": "Coupvray",
+  "bati": "Coupvray est née de deux hameaux, l'un dans le talweg du ru de Coupvray, au croisement des routes de Meaux à Ferrières et de Senlis à Melun, l'autre sur le plateau près du chemin du Tertre ; ses coteaux argileux et boisés offrent environ 80 m de dénivelé (de 41 à 132 m). La commune conserve la maison natale de Louis Braille, l'église Saint-Pierre et les ruines du château des Rohan, bâti vers 1600, et ses quartiers sont presque exclusivement pavillonnaires : 96,4 % de maisons en 2014. Rattachée au secteur IV de Marne-la-Vallée (Val d'Europe), elle poursuit son extension avec les ZAC des Bonshommes, des Cent Arpents, des Trois Ormes et de la Fosse Saint-Étienne, prévues jusque vers 2030.",
+  "patrimoine": "Plusieurs édifices sont protégés au titre des monuments historiques, dont la maison natale de Louis Braille (inscrite, labellisée « Maison des Illustres » en 2011), le château et la ferme du Couvent ; le parc du château est en outre un site classé.",
+  "risques": "Le sous-sol argileux et marneux, parcouru de sources, rend la construction délicate, et la commune a fait l'objet de fréquentes déclarations de catastrophe naturelle.",
+  "quartiers": [
+   "Bourg ancien",
+   "Les Molveaux",
+   "Fontaine Fleury",
+   "Îlot Saint-Pierre",
+   "Les Bonshommes",
+   "Vignes Rouges"
+  ],
+  "reperes": [
+   "Maison natale de Louis Braille",
+   "Église Saint-Pierre",
+   "Parc du château",
+   "Canal de Meaux à Chalifert"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Coupvray.html",
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne"
+  ]
+ },
+ {
+  "slug": "vaires-sur-marne",
+  "name": "Vaires-sur-Marne",
+  "bati": "Vaires-sur-Marne est une ville de plaine, entre 38 et 52 m d'altitude, bordée au sud par la Marne, dont l'histoire est liée au rail : camp de permissionnaires décidé en 1916, gare de triage de 210 ha et 500 km de voies en 1932, gare de Vaires-Torcy inaugurée en 1933. La population a presque triplé en cinq ans, de 1 284 habitants en 1921 à 3 434 en 1926, puis a doublé encore jusqu'en 1962, si bien qu'une partie des maisons approche le siècle : à cet âge, la réfection complète de la couverture se pose souvent. Le parc se partage entre maisons (43,7 % en 2016) et appartements, avec des repères de plusieurs époques : église Sainte-Jeanne-d'Arc de 1934, cité EDF, immeubles modernistes du parc de l'Aulnay construits en 1968 par Jacques Beufé, ZAC des Pêcheurs.",
+  "patrimoine": "",
+  "risques": "La commune est concernée par l'élaboration du PPRI de la Marne de Vaires-sur-Marne à Chelles, relancée après l'annulation en 2006 du plan approuvé en 2002.",
+  "quartiers": [
+   "Centre-Ville",
+   "Les Pêcheurs",
+   "Parc de l'Aulnay",
+   "Bois de Vaires (cité de la Gare)",
+   "République",
+   "Quartier du Canal"
+  ],
+  "reperes": [
+   "Église Sainte-Jeanne-d'Arc",
+   "Gare de Vaires-Torcy",
+   "Base nautique de Vaires-Torcy",
+   "Bords de Marne"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Vaires-sur-Marne.html",
+   "https://www.agglo-pvm.fr/fileadmin/medias/Publications/magazine/communeagglo15.pdf",
+   "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/211004_ppri_chelles_77_decision_cle684846.pdf"
+  ]
+ },
+ {
+  "slug": "villevaude",
+  "name": "Villevaudé",
+  "bati": "Villevaudé compte, outre son bourg, le hameau de Montjay-la-Tour, organisé autour de la place Saint-Christophe, ainsi que le bois de Montjay ; l'aqueduc de la Dhuys traverse son territoire.",
+  "patrimoine": "",
+  "risques": "",
+  "quartiers": [
+   "Le bourg",
+   "Montjay-la-Tour"
+  ],
+  "reperes": [
+   "Place Saint-Christophe (Montjay-la-Tour)",
+   "Bois de Montjay",
+   "Aqueduc de la Dhuys"
+  ],
+  "sources": [
+   "https://www.visorando.com/randonnee-annet-sur-marne.html",
+   "https://www.visorando.com/randonnee-boucle-entre-thorigny-et-villevaude-par-/"
+  ]
+ },
+ {
+  "slug": "jossigny",
+  "name": "Jossigny",
+  "bati": "Jossigny est un village du plateau de la Brie, entre 107 et 149 m d'altitude, resté très peu dense (environ 640 habitants sur 9,6 km², soit 66 habitants au km²) bien qu'il appartienne au secteur du Val de Bussy de Marne-la-Vallée.",
+  "patrimoine": "Le château de Jossigny est protégé au titre des monuments historiques : dans ses abords, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "",
+  "quartiers": [
+   "Le bourg"
+  ],
+  "reperes": [
+   "Château de Jossigny"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jossigny",
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne"
+  ]
+ },
+ {
+  "slug": "brou-sur-chantereine",
+  "name": "Brou-sur-Chantereine",
+  "bati": "Brou-sur-Chantereine est une petite commune de 4,28 km², entre 40 et 57 m d'altitude, couverte aux deux tiers par la forêt, qui s'est formée à partir des hameaux de Brou, de la Villeneuve-aux-Ânes et de la Forest. L'annexion du Petit Chelles en 1911 a doublé la surface du bourg, la population est passée de 3 015 habitants en 1962 à 4 664 en 1975, et les appartements dominent aujourd'hui (68 % des logements en 2016). La cité-jardin des cheminots, étudiée par l'Inventaire du patrimoine, témoigne de l'habitat ouvrier lié au chemin de fer voisin. Avec autant de bois, les toitures proches des lisières se chargent vite de mousses et de feuilles.",
+  "patrimoine": "Le château de Brou, construit à la fin du XVIIe siècle par la famille Feydeau et remanié au XVIIIe, est classé monument historique depuis 1984 : dans ses abords, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "",
+  "quartiers": [
+   "Brou",
+   "La Villeneuve-aux-Ânes",
+   "La Forest",
+   "Le Petit Chelles"
+  ],
+  "reperes": [
+   "Château de Brou",
+   "Église Saint-Baudile",
+   "Cité-jardin des cheminots",
+   "Ru de Chantereine"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Brou-sur-Chantereine.html",
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne"
+  ]
+ },
+ {
+  "slug": "fresnes-sur-marne",
+  "name": "Fresnes-sur-Marne",
+  "bati": "Fresnes-sur-Marne s'étend entre la route nationale 3 et la Marne, et son territoire est longé par le canal de l'Ourcq.",
+  "patrimoine": "",
+  "risques": "Fresnes-sur-Marne fait partie des communes couvertes par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé en 2009.",
+  "quartiers": [
+   "Le village"
+  ],
+  "reperes": [
+   "Canal de l'Ourcq",
+   "Bords de Marne"
+  ],
+  "sources": [
+   "https://www.visorando.com/randonnee-annet-sur-marne.html",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "precy-sur-marne",
+  "name": "Précy-sur-Marne",
+  "bati": "",
+  "patrimoine": "",
+  "risques": "Précy-sur-Marne fait partie des communes couvertes par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé en 2009.",
+  "quartiers": [],
+  "reperes": [
+   "Bords de Marne"
+  ],
+  "sources": [
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "torcy",
+  "name": "Torcy",
+  "bati": "Torcy associe un vieux bourg posé sur le coteau nord, qui descend d'environ 90 à 50 m vers la Marne, et une ville nouvelle bâtie sur le plateau à partir des années 1970, la gare RER ouvrant en 1980. Le Vieux Torcy, au nord-ouest, regroupe les quartiers du Mail, du Bel-Air et de l'Église, avec l'église Saint-Barthélemy élevée de 1863 à 1865 ; l'Arche-Guédon, au nord-est, rassemble les quartiers du Beauregard et des Gradins ; au sud, la Ville Nouvelle accueille la gare, le Belvédère et la résidence du Carré Fleuri. Le logement social y dépasse 35 % (3 100 logements sur 8 620 en 2010). Les couvertures les plus anciennes se trouvent dans le Vieux Torcy, alors que les quartiers de la ville nouvelle ont au plus une cinquantaine d'années.",
+  "patrimoine": "",
+  "risques": "Torcy est exposée au risque d'inondation et au retrait-gonflement des argiles et fait partie des communes du PPRI de la Marne de Vaires-sur-Marne à Chelles, dont l'élaboration a été relancée, même si sa topographie l'a préservée des crues de 1872 et de 1910.",
+  "quartiers": [
+   "Vieux Torcy",
+   "Le Mail",
+   "Bel-Air",
+   "L'Arche-Guédon",
+   "Beauregard",
+   "Le Belvédère"
+  ],
+  "reperes": [
+   "Église Saint-Barthélemy",
+   "Cèdre du Liban planté en 1834",
+   "Gare RER de Torcy",
+   "Base nautique de Vaires-Torcy"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Torcy_(Seine-et-Marne).html",
+   "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/211004_ppri_chelles_77_decision_cle684846.pdf"
+  ]
+ },
+ {
+  "slug": "collegien",
+  "name": "Collégien",
+  "bati": "Collégien était un village de 281 habitants en 1975, avant une croissance très rapide liée à Marne-la-Vallée : 818 habitants en 1982, 2 331 en 1990, près de 3 000 en 1999. Sur ce plateau entre 82 et 116 m d'altitude, l'habitat est majoritairement individuel (70 % de maisons en 2014), avec la ZAC des Portes de la Forêt au sud de l'agglomération. Le cœur ancien garde l'église Saint-Rémi, rebâtie au XVIe siècle et restaurée à la fin du XIXe, et la ferme de Collégien, ancienne possession de l'abbaye de Montmartre devenue mairie et équipements. La plupart des maisons datent ainsi des années 1975-2000 et entrent dans l'âge des premières réfections de couverture.",
+  "patrimoine": "La ferme de Lamirault, ferme fortifiée entourée de fossés à cheval sur Collégien et Croissy-Beaubourg, est inscrite au titre des monuments historiques, et la partie de la vallée de la Brosse située sur la commune est un site inscrit.",
+  "risques": "",
+  "quartiers": [
+   "Centre ancien",
+   "ZAC des Portes de la Forêt",
+   "Le Péage",
+   "Bois des Pucelles",
+   "Le Ru de la Brosse"
+  ],
+  "reperes": [
+   "Église Saint-Rémi",
+   "Ferme de Collégien (mairie)",
+   "Ferme de Lamirault",
+   "Vallée de la Brosse"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Coll%C3%A9gien_(Seine-et-Marne).html",
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne"
+  ]
+ },
+ {
+  "slug": "serris",
+  "name": "Serris",
+  "bati": "Serris s'étend sur un plateau très plat, entre 123 et 133 m d'altitude. Au sud, le bourg historique, ancien village agricole traversé par la rue Émile-Cloud, garde la ferme des Communes (XIXe-XXe siècles), devenue salle de spectacle et médiathèque, le lavoir reconstruit en 1877 et l'église Saint-Michel consacrée en 1963 ; au nord, le quartier de la Gare s'est développé autour de la gare RER et du centre commercial du Val d'Europe ouvert en 2000. Le parc est très majoritairement collectif : 78,8 % d'appartements et 18,5 % de maisons en 2016.",
+  "patrimoine": "",
+  "risques": "",
+  "quartiers": [
+   "Bourg",
+   "Quartier de la Gare",
+   "Centre urbain du Val d'Europe",
+   "Les Ruelles",
+   "La Charbonnière"
+  ],
+  "reperes": [
+   "Ferme des Communes",
+   "Église Saint-Michel",
+   "Lavoir de 1877",
+   "Centre commercial Val d'Europe"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Serris.html",
+   "https://areq.net/lang/fr/Chessy_(Seine-et-Marne).html"
+  ]
+ },
+ {
+  "slug": "claye-souilly",
+  "name": "Claye-Souilly",
+  "bati": "Claye-Souilly occupe la vallée de la Beuvronne et le plateau qui la domine, entre 42 et 124 m d'altitude, et le canal de l'Ourcq la traverse. Le quartier de Voisins, l'un des plus anciens, garde des rues étroites et une partie de l'habitat ancien, tandis que Souilly, ancien village rattaché à Claye en 1839-1840, a conservé son cimetière. Le XXe siècle a ajouté de grands quartiers pavillonnaires : Bois-Fleuri, loti à partir de 1929 et partagé avec Villeparisis, puis Mauperthuis dans les années 1970. Les maisons représentent environ 60 % des logements (59,9 % en 2013), et les toitures des pavillons de Bois-Fleuri, proches du siècle, comme celles de Mauperthuis, cinquantenaires, arrivent à l'âge des réfections.",
+  "patrimoine": "",
+  "risques": "",
+  "quartiers": [
+   "Claye",
+   "Souilly",
+   "Voisins",
+   "Mauperthuis",
+   "Bois-Fleuri"
+  ],
+  "reperes": [
+   "Canal de l'Ourcq",
+   "Parc Buffon",
+   "La Beuvronne",
+   "Salle André-Malraux (1936)"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Claye-Souilly.html"
+  ]
+ },
+ {
+  "slug": "ferrieres-en-brie",
+  "name": "Ferrières-en-Brie",
+  "bati": "Ferrières-en-Brie, sur le plateau de la Brie entre 84 et 126 m d'altitude, est longtemps restée un village marqué par le domaine des Rothschild : James de Rothschild achète le château en 1829 et le fait reconstruire dans les années 1850 par Joseph Paxton. La commune ne comptait que 1 031 habitants en 1975 ; elle a presque quadruplé depuis (3 796 en 2020), et la part du sol artificialisé est passée de 23 % à 45,5 % entre 1990 et 2018. Le parc se partage aujourd'hui presque à égalité entre maisons (environ 48 %) et appartements, la commune ayant construit quelque 800 logements sociaux en dix ans.",
+  "patrimoine": "L'église Saint-Rémy est classée monument historique depuis 1847 et le château de Ferrières depuis 2000 ; les anciennes écuries et l'ancienne buanderie du domaine Rothschild sont inscrites depuis 1997, et le café Saint-Rémy, devenu annexe de la mairie, depuis 1927. Autour de ces édifices, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "",
+  "quartiers": [
+   "Le bourg",
+   "Domaine de Ferrières"
+  ],
+  "reperes": [
+   "Château de Ferrières",
+   "Église Saint-Rémy",
+   "Café Saint-Rémy (annexe de la mairie)",
+   "Anciennes écuries du domaine"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Ferri%C3%A8res-en-Brie.html",
+   "https://www.techno-science.net/fr/definitions/liste-des-monuments-historiques-de-seine-et-marne"
+  ]
+ }
+]

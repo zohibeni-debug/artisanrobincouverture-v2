@@ -1,0 +1,81 @@
+{
+ "slug": "tuile-ardoise-zinc-quel-materiau",
+ "title": "Tuile, ardoise ou zinc : quel matériau pour votre toit ?",
+ "desc": "Tuile, ardoise ou zinc : prix 2026 au m², poids, durée de vie, pente et règles du PLU. Le comparatif d’un couvreur pour choisir la bonne couverture.",
+ "h1": "Tuile, ardoise ou zinc : quel matériau choisir pour votre toiture ?",
+ "lead": "Le bon matériau est d’abord celui que permettent votre charpente, la pente de votre toit et le PLU de votre commune. La tuile mécanique reste la plus économique (130 à 180 €/m² en réfection), l’ardoise naturelle la plus chère (160 à 300 €/m²), et le zinc à joint debout se place entre les deux (120 à 220 €/m²) avec l’avantage d’accepter les faibles pentes. Prix 2026 en Île-de-France, fourniture et pose, TTC, ferme après visite.",
+ "category": "Matériaux",
+ "read_min": 6,
+ "sections": [
+  {
+   "h2": "Tuile, ardoise, zinc : le comparatif en un tableau",
+   "html": "<table><thead><tr><th>Matériau</th><th>Réfection 2026, TTC posé</th><th>Poids indicatif</th><th>Durée de vie indicative</th><th>Pente</th><th>Règle de pose</th></tr></thead><tbody><tr><td>Tuile mécanique terre cuite</td><td>130 à 180 €/m²</td><td>40 à 50 kg/m²</td><td>50 à 100 ans</td><td>Moyenne à forte</td><td>DTU 40.21</td></tr><tr><td>Petite tuile plate</td><td>180 à 250 €/m²</td><td>60 à 80 kg/m²</td><td>50 à 100 ans et plus</td><td>Forte</td><td>DTU 40.23</td></tr><tr><td>Ardoise naturelle</td><td>160 à 300 €/m²</td><td>25 à 35 kg/m²</td><td>75 à 100 ans et plus</td><td>Forte</td><td>DTU 40.11</td></tr><tr><td>Zinc à joint debout</td><td>120 à 220 €/m²</td><td>environ 5 kg/m² hors support</td><td>50 à 100 ans</td><td>Faible à forte</td><td>DTU 40.41</td></tr><tr><td>Bac acier</td><td>90 à 140 €/m²</td><td>Léger</td><td>30 à 50 ans</td><td>Faible</td><td>—</td></tr></tbody></table><p>Poids et durées de vie sont des ordres de grandeur, qui varient selon le modèle, la pose et l’entretien. Le bac acier est réservé aux annexes, garages et extensions. Le prix ferme est fixé après visite.</p>"
+  },
+  {
+   "h2": "Pourquoi la tuile est-elle le choix le plus courant ?",
+   "html": "<p>Parce qu’elle offre le meilleur équilibre entre prix, durée de vie et facilité de réparation, et qu’elle correspond à l’architecture de la plupart des maisons de la vallée de la Marne.</p><h3>La tuile mécanique à emboîtement</h3><p>Grand format, pose rapide, coût maîtrisé : c’est la couverture de la majorité des pavillons, de Thorigny-sur-Marne à Montévrain. Elle convient aux pentes moyennes et se remplace facilement à l’unité, à condition de retrouver le modèle. Le déroulé d’une réfection est décrit sur notre page <a href=\"/couverture/pose-toiture\">pose et réfection de toiture</a>.</p><h3>La petite tuile plate</h3><p>C’est la tuile traditionnelle des maisons anciennes d’Île-de-France et de la Brie. Posée à fort recouvrement sur des pentes raides, elle demande beaucoup plus de tuiles et de main-d’œuvre au m², d’où un prix de 180 à 250 €/m², et elle pèse nettement plus lourd.</p><h3>Terre cuite ou béton ?</h3><p>La tuile béton, fréquente dans les lotissements, coûte moins cher à l’achat mais pèse plus lourd que la terre cuite à format égal, et sa teinte se ternit avec le temps. Lors d’une réfection, le passage à la terre cuite est possible ; vérifiez alors ce qu’autorise le PLU.</p>"
+  },
+  {
+   "h2": "L’ardoise : pour quelles maisons, à quelles conditions ?",
+   "html": "<p>L’ardoise naturelle convient aux toits à forte pente, aux toitures à la Mansart et aux maisons bourgeoises qui en étaient couvertes d’origine. Elle ne craint ni le gel ni la mousse dans la durée, garde sa teinte et pèse moins lourd que la tuile.</p><ul><li><strong>La qualité fait le prix</strong> : les ardoises naturelles sont classées selon la norme NF EN 12326, qui renseigne notamment sur l’absorption d’eau et le comportement des inclusions métalliques. Une ardoise bon marché peut se tacher de rouille au bout de quelques années.</li><li><strong>La fixation</strong> se fait au crochet inox, courant en rénovation, ou au clou, plus traditionnel.</li><li><strong>L’ardoise en fibres-ciment</strong> imite l’ardoise naturelle pour moins cher, mais vieillit moins bien ; elle se chiffre sur devis.</li></ul><p>Revers de la médaille : l’ardoise casse sous le pied. Toute intervention se fait avec des échelles de couvreur, ce qui rend l’entretien un peu plus long qu’en tuile.</p>"
+  },
+  {
+   "h2": "Le zinc : la solution des faibles pentes et des formes modernes",
+   "html": "<p>Des trois, le zinc à joint debout est le seul à accepter des pentes faibles, ce qui en fait le matériau des extensions, des toits presque plats, des lucarnes et des terrassons de toitures à la Mansart. Il est léger, durable et ne retient pas la mousse.</p><ul><li>Il se pose sur un support continu et ventilé (voliges ou panneaux), selon le DTU 40.41.</li><li>Il se dilate : les feuilles sont tenues par des pattes qui leur laissent du jeu, jamais clouées à travers.</li><li>Il supporte mal certains contacts : eau ayant ruisselé sur du cuivre, plâtre, ciment frais, bois acides comme le chêne.</li><li>Sans isolation sous-jacente, la pluie s’entend davantage que sous une tuile.</li></ul><p>La même compétence de zingueur sert aux gouttières, noues et habillages : voir notre page <a href=\"/couverture/zinguerie-gouttieres\">zinguerie et gouttières</a>.</p>"
+  },
+  {
+   "h2": "Votre charpente peut-elle porter le matériau choisi ?",
+   "html": "<p>Pas forcément si vous passez à un matériau plus lourd. Remplacer une ardoise ou un zinc par de la petite tuile plate peut multiplier la charge de la couverture par deux ou davantage : la charpente doit alors être vérifiée, et parfois renforcée selon les règles du DTU 31.1 pour la charpente bois. L’inverse allège la structure et ne pose pas de problème de portance.</p><p>Le couvreur contrôle la section et l’espacement des chevrons, la flèche des pannes et l’état des assemblages. Un traitement curatif coûte de 25 à 45 €/m², une charpente neuve ou remplacée de 80 à 160 €/m², prix ferme après visite. Plus d’informations sur notre page <a href=\"/couverture/charpente\">charpente</a>.</p>"
+  },
+  {
+   "h2": "Que peut imposer le PLU de votre commune ?",
+   "html": "<p>Le PLU fixe souvent le matériau et la teinte, parfois la pente et la forme des tuiles. Changer de matériau ou de teinte modifie l’aspect extérieur et demande une déclaration préalable (article R421-17 du Code de l’urbanisme), instruite en un mois, deux aux abords d’un monument historique, où l’architecte des Bâtiments de France donne son avis.</p><p>À Thorigny-sur-Marne, Lagny-sur-Marne ou Chessy, le règlement de votre zone se consulte en mairie ou sur le Géoportail de l’urbanisme. Lisez-le avant de demander des devis : vous éviterez de chiffrer un matériau qui serait refusé.</p>"
+  },
+  {
+   "h2": "Comment choisir, concrètement ?",
+   "html": "<ol><li><strong>Regardez la maison et la rue</strong> : le matériau d’origine et celui des voisins donnent la bonne direction.</li><li><strong>Lisez le PLU</strong> de votre zone.</li><li><strong>Faites vérifier la charpente</strong> si le nouveau matériau est plus lourd.</li><li><strong>Raisonnez en budget global</strong> : couverture, zinguerie, fenêtres de toit et isolation, désormais obligatoire dans la plupart des réfections.</li><li><strong>Pensez à l’entretien</strong> : la tuile se démousse régulièrement, l’ardoise et le zinc demandent surtout une surveillance.</li></ol><p>Les prix détaillés sont dans l’article <a href=\"/blog/prix-refection-toiture-m2\">prix d’une réfection de toiture au m²</a>, et des exemples de chantiers sur la page <a href=\"/realisations\">réalisations</a>. Pour un avis sur votre toit, devis gratuit avec réponse sous 24 h : <a href=\"/contact\">contact</a>.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Peut-on associer tuiles et zinc sur un même toit ?",
+   "a": "Oui, c’est courant : tuiles sur les grands pans, zinc pour les noues, lucarnes, chéneaux ou parties à faible pente. Les deux se raccordent par des pièces de zinguerie façonnées."
+  },
+  {
+   "q": "La tuile béton est-elle un mauvais choix ?",
+   "a": "Non, elle est solide et économique à l’achat. Elle est plus lourde que la terre cuite et sa teinte vieillit moins bien, ce qui compte surtout pour l’aspect."
+  },
+  {
+   "q": "Quel matériau demande le moins d’entretien ?",
+   "a": "Le zinc et l’ardoise naturelle, qui retiennent peu la mousse. La tuile demande un démoussage périodique, surtout sous les arbres et sur les pans exposés au nord."
+  },
+  {
+   "q": "Peut-on poser de l’ardoise sur un toit peu pentu ?",
+   "a": "Non : l’ardoise et la petite tuile plate exigent une forte pente pour rester étanches. Sur une pente faible, on se tourne vers le zinc à joint debout ou vers des tuiles mécaniques conçues pour cet usage."
+  }
+ ],
+ "services": [
+  "pose-toiture",
+  "zinguerie-gouttieres",
+  "charpente"
+ ],
+ "photo_tags": [
+  "tuiles",
+  "ardoise",
+  "zinc"
+ ],
+ "sources": [
+  {
+   "title": "Choisir son revêtement de toiture (La Maison Saint-Gobain)",
+   "url": "https://www.lamaisonsaintgobain.fr/guides-travaux/toiture-charpente/choisir-revetement-toiture"
+  },
+  {
+   "title": "Les différents types de matériaux de couverture (Obat)",
+   "url": "https://travaux.obat.fr/guides/type-materiau-toiture/"
+  },
+  {
+   "title": "Réfection de toiture : faut-il une déclaration préalable ? (Construires)",
+   "url": "https://www.construires.fr/refection-toiture-declaration-prealable/"
+  }
+ ]
+}

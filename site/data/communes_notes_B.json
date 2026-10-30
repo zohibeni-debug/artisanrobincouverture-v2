@@ -1,0 +1,658 @@
+[
+ {
+  "slug": "claye-souilly",
+  "name": "Claye-Souilly",
+  "bati": "Claye s'est construite en bourg-relais le long de la route d'Allemagne, l'actuelle rue Jean-Jaurès : en 1739, l'élargissement de la route a fait abattre puis reconstruire à l'alignement la plupart des maisons de la rue principale, d'où le front continu de façades anciennes du centre. Autour des noyaux anciens de Claye, de Souilly (rattaché à Claye en 1839) et de Voisins, où les maisons s'ouvrent souvent sur une cour intérieure, la commune s'est étendue par lotissements : Bois-Fleuri, créé en 1929 sur des terrains marécageux et régularisé en 1965, Mauperthuis, quartier de maisons individuelles des années 1970, puis la Closerie, Grand Champ, la Cité Saint-Louis et l'Ermitage. En 2013, les maisons représentaient encore 59,9 % des 4 837 logements. Sur les pavillons des années 1970, les couvertures d'origine approchent les cinquante ans, ce qui rend utile une révision des faîtages, des rives et des gouttières ; sous les grands arbres des lotissements paysagers et autour du parc Buffon, la mousse et les feuilles sont le premier entretien.",
+  "patrimoine": "Le PLU protège au titre du patrimoine bâti local l'église Saint-Étienne, le château des Tourelles (l'actuelle mairie), la maison du parc Buffon, la propriété Meignien rue Jean-Jaurès et la place de Souilly, ce qui donne à la commune un droit de regard sur les travaux qui les concernent.",
+  "risques": "Un plan de prévention des tassements différentiels (retrait-gonflement des argiles) a été prescrit le 11 juillet 2001 à Claye-Souilly, où neuf arrêtés de catastrophe naturelle liés à la sécheresse ont été pris entre 1991 et 2010.",
+  "quartiers": [
+   "Claye (centre ancien)",
+   "Souilly",
+   "Voisins",
+   "Bois-Fleuri",
+   "Mauperthuis",
+   "L'Ermitage"
+  ],
+  "reperes": [
+   "Église Saint-Étienne",
+   "Canal de l'Ourcq",
+   "Parc Buffon",
+   "Château des Tourelles (mairie)"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Claye-Souilly.html",
+   "https://www.claye-souilly.fr/loisirs/histoire/",
+   "https://www.claye-souilly.fr/wp-content/uploads/2020/03/PADD.pdf",
+   "https://www.communes.com/risques-claye-souilly",
+   "https://www.communes.com/ville-claye-souilly",
+   "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne_de_Claye-Souilly"
+  ]
+ },
+ {
+  "slug": "ferrieres-en-brie",
+  "name": "Ferrières-en-Brie",
+  "bati": "Le vieux Ferrières se groupe autour de l'église Saint-Rémy et de la rue Jean-Jaurès, où l'ancien relais de poste, le café Saint-Rémy, sert aujourd'hui de mairie annexe. Le domaine des Rothschild a laissé dans le bourg des dépendances remarquables : les anciennes écuries de la rue du Général-de-Gaulle, en brique et pans de bois d'inspiration anglo-normande, et l'ancienne buanderie de l'allée de la Taffarette, bâtie vers 1840. La commune a changé d'échelle en quelques décennies, passant de 1 031 habitants en 1975 à 3 796 en 2020, avec un parc de logements partagé presque à égalité entre maisons (48,2 %) et appartements (51,2 %) en 2017. Les toitures anciennes du bourg côtoient donc des pavillons et des résidences récentes ; près de la forêt régionale de Ferrières, dont une partie couvre la commune, les feuilles et l'ombre rendent plus fréquents le nettoyage des gouttières et le démoussage.",
+  "patrimoine": "L'église Saint-Rémy est classée monument historique depuis 1847 et le domaine du château de Ferrières (château élevé par Joseph Paxton dans les années 1850, et son parc) l'est depuis 2000 ; le café Saint-Rémy (inscrit en 1927), les anciennes écuries et l'ancienne buanderie du domaine (inscrites en 1997) placent le centre du bourg dans des périmètres où l'architecte des Bâtiments de France donne son avis sur les travaux de toiture visibles.",
+  "risques": "Quatre arrêtés de catastrophe naturelle pour des mouvements de terrain liés à la sécheresse (épisodes de 1989 à 2003) ont été pris à Ferrières-en-Brie, ce qui signale des sols sensibles au retrait-gonflement des argiles.",
+  "quartiers": [
+   "Le bourg",
+   "La Taffarette",
+   "Le domaine du château"
+  ],
+  "reperes": [
+   "Château de Ferrières et son parc",
+   "Église Saint-Rémy",
+   "Café Saint-Rémy (mairie annexe)",
+   "Forêt régionale de Ferrières"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Ferri%C3%A8res-en-Brie.html",
+   "https://www.communes.com/ville-ferrieres-en-brie",
+   "https://www.communes.com/risques-ferrieres-en-brie",
+   "https://pop.culture.gouv.fr/notice/merimee/PA77000004",
+   "https://pop.culture.gouv.fr/notice/merimee/PA77000005",
+   "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-R%C3%A9my_de_Ferri%C3%A8res-en-Brie",
+   "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Ferri%C3%A8res_(Ferri%C3%A8res-en-Brie)"
+  ]
+ },
+ {
+  "slug": "esbly",
+  "name": "Esbly",
+  "bati": "Le vieil Esbly s'étire le long de la rue Victor-Hugo, la plus ancienne rue de la commune, déjà tracée sur la carte de Cassini, où se dressait le château des Charlet aujourd'hui disparu. L'ouverture de la gare en 1870 a fait grossir le bourg, passé de 400 habitants à 600 dès 1894, et transformé en grande rue l'ancien chemin de la ferme d'Hermières, l'actuelle rue du Général-Leclerc. Les Champs Forts, cultivés jusque dans les années 1960, ont été urbanisés à partir des années 1970, et le lotissement des Vergers, aux rues baptisées de noms de fruits, date de 2004. Les toitures d'Esbly relèvent ainsi de trois générations : maisons anciennes du centre, pavillons des Champs Forts dont les couvertures d'origine approchent les cinquante ans, et maisons récentes où l'entretien porte surtout sur les gouttières et les noues.",
+  "patrimoine": "Le pont sur la Marne de la RD 5, conçu par Eugène Freyssinet en béton précontraint et mis en service en 1949, est inscrit monument historique depuis le 6 mai 1965 (il s'étend aussi sur Isles-lès-Villenoy) : dans un rayon de 500 m, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Esbly est couverte par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé le 27 novembre 2009, et un plan de prévention des tassements différentiels (retrait-gonflement des argiles) y a été prescrit en 2001.",
+  "quartiers": [
+   "Centre ancien (rue Victor-Hugo)",
+   "Les Champs Forts",
+   "Les Vergers",
+   "Hermières",
+   "La Prairie"
+  ],
+  "reperes": [
+   "Gare d'Esbly",
+   "Pont Freyssinet sur la Marne",
+   "Canal de Meaux à Chalifert et son pont suspendu en bois",
+   "Église Saint-Jean-Baptiste"
+  ],
+  "sources": [
+   "https://www.esbly.fr/ma-ville/esbly-et-son-histoire/presentation-de-la-ville/",
+   "https://www.esbly.fr/ma-ville/esbly-et-son-histoire/votre-rue-a-une-histoire/",
+   "https://pop.culture.gouv.fr/notice/merimee/PA00086950",
+   "https://www.communes.com/ville-esbly",
+   "https://www.communes.com/risques-esbly",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "le-pin",
+  "name": "Le Pin",
+  "bati": "Le Pin a conservé un centre de bourg rural autour de l'église Saint-Antoine, du XVIIe siècle, et de la mairie-école inaugurée en 1935, avec la ferme de Courgain et sa maison forte du XIVe siècle. À partir du milieu du XXe siècle, l'extension de l'agglomération parisienne a transformé le village : les petites exploitations agricoles ont été reconverties en logements et des lotissements ont été construits, si bien qu'en 2013 les maisons formaient 73,1 % des 547 logements et que 80,5 % des ménages étaient propriétaires. On trouve donc côte à côte les grands volumes de toiture d'anciens corps de ferme, dont la charpente se contrôle à chaque réfection, et les pavillons des lotissements. La proximité des bois de Brou et de Vaires favorise la mousse sur les versants les moins exposés et l'encombrement des gouttières.",
+  "patrimoine": "",
+  "risques": "Un plan de prévention des tassements différentiels lié au retrait-gonflement des argiles a été prescrit en 2001 au Pin, où des dégâts dus à la sécheresse ont été reconnus en catastrophe naturelle pour 1989-1990, pour plusieurs épisodes des années 1990, pour 2003 et pour 2009.",
+  "quartiers": [
+   "Le centre du bourg",
+   "Courgain",
+   "La Féculerie"
+  ],
+  "reperes": [
+   "Église Saint-Antoine",
+   "Ferme de Courgain",
+   "Aqueduc de la Dhuis (GR 14A)",
+   "Carrière de gypse à ciel ouvert de Placoplatre"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Le_Pin_(Seine-et-Marne)",
+   "https://www.communes.com/ville-le-pin-77",
+   "https://www.communes.com/risques-le-pin-77",
+   "https://museeduplatre.fr/uploads/E8rDUF3d/VisitedelacarrieredeLePin-Villeparisis-Villevaude2025.pdf"
+  ]
+ },
+ {
+  "slug": "croissy-beaubourg",
+  "name": "Croissy-Beaubourg",
+  "bati": "Croissy-Beaubourg est une commune de maisons : elles représentaient 94,6 % des 780 logements en 2016. Née en 1804 de la réunion des paroisses de Croissy et de Beaubourg, elle a été intégrée au secteur II de la ville nouvelle de Marne-la-Vallée, dont elle a surtout accueilli des zones d'activités (ZAC Paris-Est partagée avec Lognes et Émerainville, ZAC de Lamirault), l'habitat restant pavillonnaire. Le château, en ruines, a été démoli en 1975 pour laisser place à des bureaux, et l'église Saint-Marcel actuelle a été inaugurée en 1961. Les toitures à entretenir sont donc avant tout celles de pavillons, dans un cadre boisé entre les étangs de Croissy et de Beaubourg et la forêt régionale de Ferrières, où mousses et feuilles colmatent vite gouttières et descentes.",
+  "patrimoine": "La ferme de Lamirault, ferme fortifiée entourée de fossés déjà mentionnés au XIVe siècle, à cheval sur Croissy-Beaubourg et Collégien, est inscrite monument historique depuis 1985 ; l'étang de Beaubourg est par ailleurs protégé par un arrêté de protection de biotope (49 ha).",
+  "risques": "Un plan de prévention des tassements différentiels (retrait-gonflement des argiles) a été prescrit le 11 juillet 2001 à Croissy-Beaubourg, qui compte neuf arrêtés de catastrophe naturelle pour des mouvements de terrain liés à des sécheresses survenues entre 1989 et 2006.",
+  "quartiers": [
+   "Croissy",
+   "Beaubourg",
+   "La Remise à Beaubourg",
+   "Le Pas de la Mule",
+   "Lamirault"
+  ],
+  "reperes": [
+   "Ferme de Lamirault",
+   "Étang de Beaubourg",
+   "Église Saint-Marcel",
+   "Forêt régionale de Ferrières"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Croissy-Beaubourg.html",
+   "https://www.communes.com/ville-croissy-beaubourg",
+   "https://www.communes.com/risques-croissy-beaubourg"
+  ]
+ },
+ {
+  "slug": "magny-le-hongre",
+  "name": "Magny-le-Hongre",
+  "bati": "Le vieux Magny tient en quelques rues, rue de l'Église, Grande Rue et rue de l'Épinette, autour de l'église Sainte-Geneviève, dont le clocher a été reconstruit en 1748 au-dessus du portail, et du lavoir alimenté par une fontaine attestée dès le XIe siècle. Plusieurs granges de ce noyau rural ont été réhabilitées, comme la salle Goudailler en 1995 ou l'Atelier de Paix en 1991. Tout le reste est récent : intégrée au secteur IV de Marne-la-Vallée (Val d'Europe), la commune est passée de 1 791 habitants en 1999 à 9 082 en 2020, et la part artificialisée de son territoire de 21,4 % en 1990 à 64,9 % en 2018. Le parc de 2017 se partageait entre maisons (47,7 %) et appartements (50,5 %) ; sur ces constructions des années 2000 et 2010, l'entretien porte surtout sur les gouttières, les noues et les raccords autour des fenêtres de toit, tandis que les granges réhabilitées du vieux village portent de grands pans de toiture, plus exposés au vent.",
+  "patrimoine": "",
+  "risques": "La sécheresse de l'été 2003 a été reconnue en catastrophe naturelle à Magny-le-Hongre au titre des mouvements de terrain différentiels liés au retrait-gonflement des sols.",
+  "quartiers": [
+   "Le vieux village (rue de l'Église, Grande Rue)",
+   "La ferme Sainte-Geneviève",
+   "Les Pilleurs"
+  ],
+  "reperes": [
+   "Église Sainte-Geneviève",
+   "Lavoir Sainte-Geneviève",
+   "Parc du Lochy",
+   "File7 (ferme Sainte-Geneviève)"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Magny-le-Hongre.html",
+   "https://www.magnylehongre.fr/ma-ville/historique/",
+   "https://www.magnylehongre.fr/ma-ville/patrimoine/",
+   "https://www.communes.com/ville-magny-le-hongre",
+   "https://www.communes.com/risques-magny-le-hongre"
+  ]
+ },
+ {
+  "slug": "charmentray",
+  "name": "Charmentray",
+  "bati": "Charmentray est un village d'environ 300 habitants dont le territoire s'étage entre 40 et 95 m d'altitude au-dessus de la Marne. Les maisons y représentent 82,1 % des logements, occupés aux trois quarts par leurs propriétaires, et 60 % du parc a été construit après 1970 : deux logements sur cinq sont donc antérieurs à cette date. Sur les maisons anciennes, ce sont souvent les rives et les faîtages qui fatiguent les premiers ; sur les pavillons des années 1970, les couvertures d'origine approchent les cinquante ans.",
+  "patrimoine": "",
+  "risques": "Charmentray est couverte par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé le 27 novembre 2009, et des arrêtés de catastrophe naturelle pour inondations y ont été pris en 1982, 1983, 1995 et 1999.",
+  "quartiers": [
+   "Le village",
+   "Les bords de Marne"
+  ],
+  "reperes": [
+   "La Marne",
+   "Mairie de Charmentray"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/charmentray-77094/",
+   "https://en.wikipedia.org/wiki/Charmentray",
+   "https://www.communes.com/ville-charmentray",
+   "https://www.communes.com/risques-charmentray",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "montry",
+  "name": "Montry",
+  "bati": "Montry s'étage sur le coteau de la Marne, entre 43 et 128 m d'altitude, sur un territoire de moins de 3 km². Le village a presque doublé en sept ans, passant de 1 224 habitants en 1968 à 2 288 en 1975, et 62 % des logements actuels sont postérieurs à 1970 : la commune est d'abord faite de maisons (84,5 % du parc), occupées à 86,2 % par leurs propriétaires. Les pavillons de cette vague des années 1968-1975 ont aujourd'hui plus de cinquante ans : c'est sur eux que se concentrent les remplacements de couverture, souvent couplés à l'isolation des combles. La révision du PLU engagée en 2019 prévoyait en outre plusieurs centaines de logements neufs, dont au moins 800 au titre du projet d'intérêt général d'Euro Disneyland.",
+  "patrimoine": "Le parc du château des Hautes-Maisons, qui offre un panorama sur la vallée, se trouve dans un site inscrit par arrêté de 1947 : les travaux qui modifient l'aspect des lieux, toitures comprises, y sont déclarés à l'avance et soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Montry est couverte par le PPRI de la vallée de la Marne approuvé le 27 novembre 2009 et figure dans l'atlas des zones inondables du Grand Morin ; l'autorité environnementale a aussi relevé des nappes proches de la surface près du Grand Morin et du canal.",
+  "quartiers": [
+   "Le centre-village",
+   "Les Hautes-Maisons",
+   "Le quartier de la gare",
+   "Les abords du ru du Lochy"
+  ],
+  "reperes": [
+   "Gare de Montry - Condé",
+   "Parc du château des Hautes-Maisons",
+   "Clocher de l'ancienne église",
+   "Le Grand Morin"
+  ],
+  "sources": [
+   "https://www.mrae.developpement-durable.gouv.fr/IMG/pdf/190408_mrae_decision_cas_par_cas_revision_plu_de_montry_77_.pdf",
+   "https://www.villesavivre.fr/montry-77315/",
+   "https://en.wikipedia.org/wiki/Montry",
+   "https://www.communes.com/ville-montry",
+   "https://www.communes.com/risques-montry"
+  ]
+ },
+ {
+  "slug": "noisiel",
+  "name": "Noisiel",
+  "bati": "Noisiel doit son visage à la chocolaterie Menier : entre 1874 et 1911, la famille Menier y a bâti une cité ouvrière d'environ 200 maisons en brique pleine sur une trentaine d'hectares, aux toits à deux pans couverts de tuiles mécaniques en terre cuite. Le PLU en fixe précisément les règles : pente d'origine de 31,5°, tuile rouge à côtes pour l'habitation principale, zinc seulement pour les annexes à faible pente, aucune lucarne, et le PVC y est déconseillé pour les gouttières. Le reste de la ville appartient à la ville nouvelle de Marne-la-Vallée, qui en a fait dès les années 1970 un terrain d'expérimentation architecturale (les Totems, la tour verte des Deux-Parcs) : en 2011, 86,7 % des résidences principales dataient de 1946 à 1990 et les maisons ne formaient qu'environ un quart des 5 808 logements. Les résidences de la Ferme du Buisson (283 logements, 2007-2012) complètent ce parc.",
+  "patrimoine": "L'ancienne usine Menier est protégée par étapes : moulin Saulnier classé en 1992, bâtiment dit la Cathédrale inscrit en 1986, autres bâtiments du site inscrits en 2021 ; dans la cité ouvrière, l'ancienne école (actuel hôtel de ville), les anciens réfectoires et l'ancienne mairie sont inscrits depuis 1986, et l'ancien château (cours du Château) figure aussi sur la liste des monuments historiques. Autour de ces édifices, les travaux de toiture visibles relèvent de l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Noisiel fait partie des cinq communes du PPRi de la Marne de Vaires-sur-Marne à Chelles, en cours d'élaboration (le plan des surfaces submersibles de 1994 s'applique en attendant), avec environ 40 ha exposés, et des arrêtés de catastrophe naturelle y ont été pris pour la sécheresse (1989 à 1997, 2003, 2009).",
+  "quartiers": [
+   "La Cité ouvrière Menier",
+   "Le Luzard",
+   "Les Deux-Parcs",
+   "La Ferme du Buisson",
+   "La Pièce aux Chats",
+   "La Remise aux Fraises"
+  ],
+  "reperes": [
+   "Chocolaterie Menier et moulin Saulnier",
+   "Parc de Noisiel (90 ha au bord de la Marne)",
+   "Ferme du Buisson",
+   "Gare de Noisiel (RER A)"
+  ],
+  "sources": [
+   "https://areq.net/lang/fr/Noisiel.html",
+   "https://pop.culture.gouv.fr/notice/merimee/PA00087175",
+   "https://pop.culture.gouv.fr/notice/merimee/IA77000034",
+   "https://www.ville-noisiel.fr/wp-content/uploads/2021/11/Fiches-patrimoine.pdf",
+   "https://www.communes.com/ville-noisiel",
+   "https://www.communes.com/risques-noisiel",
+   "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/211004_ppri_chelles_77_decision_cle684846.pdf",
+   "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/6_-_ppri_de_la_marne_de_vaires-sur-marne_a_chelles_77__cle571d2c.pdf"
+  ]
+ },
+ {
+  "slug": "isles-les-villenoy",
+  "name": "Isles-lès-Villenoy",
+  "bati": "Isles-lès-Villenoy a pris son essor après la construction, en 1839, d'un pont à péage sur la Marne, qui en a fait un lieu de villégiature. Le village garde un parc ancien important, puisque près de 45 % des logements sont antérieurs à 1970, et c'est une commune de maisons (89,2 % du parc) très majoritairement habitées par leurs propriétaires (89,3 %), entre 40 et 72 m d'altitude au bord de la rivière. Sur ce bâti ancien, une réfection de toiture passe par un contrôle de la charpente, des faîtages et des souches de cheminée ; près de l'eau et des arbres des berges, la mousse s'installe vite sur les versants peu ensoleillés.",
+  "patrimoine": "Le pont Freyssinet de 1949 qui relie Isles-lès-Villenoy à Esbly est inscrit monument historique depuis le 6 mai 1965, et un second pont sur la Marne situé sur la commune figure également sur la liste des monuments historiques : à leurs abords, les travaux de toiture visibles relèvent de l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Isles-lès-Villenoy est couverte par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé le 27 novembre 2009, et a connu des arrêtés de catastrophe naturelle pour inondations en 1982, 1983, 1993-1994, 1995 et 1999.",
+  "quartiers": [
+   "Le bourg",
+   "Les bords de Marne"
+  ],
+  "reperes": [
+   "Pont Freyssinet sur la Marne",
+   "Église et monument aux morts",
+   "Mairie-école",
+   "La Marne"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Isles-l%C3%A8s-Villenoy",
+   "https://www.villesavivre.fr/isles-les-villenoy-77232/",
+   "https://pop.culture.gouv.fr/notice/merimee/PA00086950",
+   "https://www.communes.com/ville-isles-les-villenoy",
+   "https://www.communes.com/risques-isles-les-villenoy",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "lognes",
+  "name": "Lognes",
+  "bati": "Lognes est presque entièrement une ville des années 1980 : le village comptait 248 habitants en 1975, 1 707 en 1982 et 12 973 en 1990, au rythme des opérations du secteur II de Marne-la-Vallée (Val Maubuée). Aujourd'hui, 95 % des logements sont postérieurs à 1970 et les appartements dominent (79,6 %), les maisons (20,4 %) appartenant pour l'essentiel à la même génération. Bâties en quelques années, ces toitures vieillissent ensemble et approchent toutes la quarantaine : selon les immeubles et les maisons, c'est l'étanchéité des toitures-terrasses ou la révision des couvertures, des solins et des gouttières qui se pose en même temps dans des quartiers entiers.",
+  "patrimoine": "",
+  "risques": "Cinq arrêtés de catastrophe naturelle pour des mouvements de terrain liés à la sécheresse ont été pris à Lognes, pour des épisodes allant de 1989 à 2009, signe de sols sensibles au retrait-gonflement des argiles.",
+  "quartiers": [
+   "Le vieux village",
+   "Le Segrais",
+   "La Maillière"
+  ],
+  "reperes": [
+   "Gare de Lognes (RER A)",
+   "Collège Le Segrais",
+   "Lycée Emily-Brontë"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lognes",
+   "https://www.villesavivre.fr/lognes-77258/",
+   "https://fr.wikipedia.org/wiki/Politique_des_villes_nouvelles_fran%C3%A7aises",
+   "https://www.communes.com/ville-lognes",
+   "https://www.communes.com/risques-lognes"
+  ]
+ },
+ {
+  "slug": "bailly-romainvilliers",
+  "name": "Bailly-Romainvilliers",
+  "bati": "Bailly-Romainvilliers appartient au Val d'Europe, le secteur IV de Marne-la-Vallée créé à la suite du lancement de Disneyland Paris. Son parc de logements est très récent : environ 90 % des logements ont été construits après 1990. Il se partage entre appartements (53,5 %) et maisons (46,5 %), et 59,5 % des ménages sont propriétaires. Sur des toitures qui ont pour la plupart entre vingt et trente-cinq ans, les interventions portent d'abord sur les éléments qui vieillissent le plus vite : gouttières et descentes, noues, closoirs de faîtage et raccords autour des fenêtres de toit.",
+  "patrimoine": "",
+  "risques": "Les arrêtés de catastrophe naturelle pris à Bailly-Romainvilliers concernent des inondations et coulées de boue (décembre 1982, avril 1983, décembre 1999), aucun ne visant la sécheresse.",
+  "quartiers": [
+   "Le boulevard de la Marsange"
+  ],
+  "reperes": [
+   "Boulevard de la Marsange",
+   "Val d'Europe"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/bailly-romainvilliers-77018/",
+   "https://fr.wikipedia.org/wiki/Politique_des_villes_nouvelles_fran%C3%A7aises",
+   "https://fr.wikipedia.org/wiki/R%C3%A9seau_de_bus_de_Marne-la-Vall%C3%A9e",
+   "https://www.communes.com/ville-bailly-romainvilliers",
+   "https://www.communes.com/risques-bailly-romainvilliers"
+  ]
+ },
+ {
+  "slug": "conde-sainte-libiaire",
+  "name": "Condé-Sainte-Libiaire",
+  "bati": "Condé-Sainte-Libiaire est un village de maisons (95,4 % des logements) traversé par le Grand Morin, où près de la moitié du parc (48 %) est antérieure à 1970. Les propriétaires occupants y sont très majoritaires (92 %) et les maisons sont grandes, 79 % comptant quatre pièces ou plus. Ces grandes maisons anciennes ont des surfaces de toiture importantes, et dans la vallée du Grand Morin l'humidité rend les démoussages et le curage des gouttières plus fréquents.",
+  "patrimoine": "",
+  "risques": "Condé-Sainte-Libiaire est couverte par le PPRI de la vallée de la Marne approuvé le 27 novembre 2009, et des repères de crue du Grand Morin y ont été relevés rue de Montry, sur le portail du manoir (février 2018), et rue de Couilly (février 2020 et octobre 2024).",
+  "quartiers": [
+   "Le village",
+   "Les bords du Grand Morin"
+  ],
+  "reperes": [
+   "Le Grand Morin",
+   "Manoir de Condé-Sainte-Libiaire",
+   "Église et mairie",
+   "Gare de Montry - Condé"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/conde-sainte-libiaire-77125/",
+   "https://www.reperesdecrues.developpement-durable.gouv.fr/export/772670/site",
+   "https://www.reperesdecrues.developpement-durable.gouv.fr/export/886321/site",
+   "https://www.communes.com/ville-conde-sainte-libiaire",
+   "https://www.communes.com/risques-conde-sainte-libiaire"
+  ]
+ },
+ {
+  "slug": "trilbardou",
+  "name": "Trilbardou",
+  "bati": "Trilbardou a gardé un vrai caractère de village : 53 % des logements y ont été construits avant 1971, et les maisons forment 84,3 % du parc, occupées à 78,6 % par leurs propriétaires. On y trouve donc beaucoup de toitures anciennes, sur des maisons et des dépendances où les faîtages scellés au mortier et les solins de cheminée sont les premiers points à vérifier.",
+  "patrimoine": "L'usine élévatoire des eaux de Trilbardou est protégée au titre des monuments historiques : dans un rayon de 500 m, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Trilbardou est couverte par le PPRI de la vallée de la Marne d'Isles-lès-Villenoy à Saint-Thibault-des-Vignes, approuvé le 27 novembre 2009, et tous les arrêtés de catastrophe naturelle qui y ont été pris concernent des inondations (1982, 1983, 1993-1994, 1995, 1999).",
+  "quartiers": [
+   "Le village",
+   "Les bords de Marne"
+  ],
+  "reperes": [
+   "Usine élévatoire de Trilbardou",
+   "Pont sur la Marne, de la série conçue d'après le pont Freyssinet d'Esbly",
+   "La Marne"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/trilbardou-77474/",
+   "https://www.communes.com/ville-trilbardou",
+   "https://www.communes.com/risques-trilbardou",
+   "https://pop.culture.gouv.fr/notice/merimee/PA00086950",
+   "https://www.saintthibaultdesvignes.fr/wp-content/uploads/2024/11/14_REG_Isles_Villenoy_St_Thibault-1.pdf"
+  ]
+ },
+ {
+  "slug": "messy",
+  "name": "Messy",
+  "bati": "Messy, village attesté depuis le VIIIe siècle, s'organise autour de l'église Saint-Pierre-et-Saint-Paul, dont le chœur roman remonte au XIIe siècle. En 2014, la commune comptait 467 logements, dont 76,5 % de maisons, et 68,3 % des ménages étaient propriétaires de leur résidence principale. Le bâti ancien y côtoie quelques demeures plus remarquables, comme le château de la Dimeresse (XIXe siècle) et le moulin de Moulignon (XVIIIe siècle).",
+  "patrimoine": "",
+  "risques": "Les arrêtés de catastrophe naturelle pris à Messy, commune traversée par la Beuvronne, concernent des inondations et coulées de boue (1982, 1983, 1993, 1999 et 2006).",
+  "quartiers": [
+   "Le bourg",
+   "Moulignon",
+   "La Dimeresse"
+  ],
+  "reperes": [
+   "Église Saint-Pierre-et-Saint-Paul",
+   "Château de la Dimeresse",
+   "Moulin de Moulignon",
+   "La Beuvronne"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Messy",
+   "https://www.communes.com/ville-messy",
+   "https://www.communes.com/risques-messy"
+  ]
+ },
+ {
+  "slug": "courtry",
+  "name": "Courtry",
+  "bati": "Courtry a plus que doublé entre 1968 (2 489 habitants) et 1990 (5 503), et 77 % de ses logements sont postérieurs à 1970 : c'est aujourd'hui une commune de maisons (77,2 % du parc), occupées à 77,2 % par leurs propriétaires. Son territoire de 4,16 km² monte de 53 à 130 m d'altitude, entre le vieux village de l'église Saint-Médard et les quartiers pavillonnaires construits pendant cette période de croissance. Pour ces maisons des années 1970 et 1980, le remplacement de la couverture d'origine s'accompagne en général d'une reprise des gouttières et des descentes.",
+  "patrimoine": "L'église Saint-Médard de Courtry est protégée au titre des monuments historiques : dans un rayon de 500 m, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Un plan de prévention des tassements différentiels (retrait-gonflement des argiles) a été prescrit le 11 juillet 2001 à Courtry, où des dégâts liés à la sécheresse ont été reconnus en catastrophe naturelle à plusieurs reprises entre 1989 et 2005.",
+  "quartiers": [
+   "Le vieux village (église Saint-Médard)"
+  ],
+  "reperes": [
+   "Église Saint-Médard"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Courtry",
+   "https://www.villesavivre.fr/courtry-77139/",
+   "https://www.communes.com/ville-courtry",
+   "https://www.communes.com/risques-courtry"
+  ]
+ },
+ {
+  "slug": "chelles",
+  "name": "Chelles",
+  "bati": "Chelles juxtapose des époques très nettes : le quartier Gambetta, le plus ancien, déjà très actif dans les années 1900 ; les Coudreaux, quartier pavillonnaire né à partir des années 1900 avec les lotissements « à la campagne » ; la cité des Cheminots des Arcades, créée en 1926 par la Compagnie des chemins de fer de l'Est. Après la rénovation lancée en 1960, le centre-ville a été reconstruit en grands ensembles achevés au milieu des années 1970, tandis que les Monts-Chalats se couvraient de pavillons dans les années 1980. En 2016, la ville comptait 23 121 logements, dont 44,9 % de maisons. Sur les pavillons des premiers lotissements, dont les plus anciens datent du début du XXe siècle, une réfection de couverture va souvent jusqu'au remplacement du lattis et à la vérification des bois de charpente, alors que ceux des Monts-Chalats, quadragénaires, en sont aux premiers remplacements de couverture.",
+  "patrimoine": "L'ancienne abbaye royale, son jardin et le monument dit de Chilpéric (parc du Souvenir) sont inscrits monuments historiques : autour de la rue Louis-Eterlet et du centre, les travaux de toiture visibles dans leurs périmètres de 500 m sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Près de la moitié des Chellois (25 500 habitants, soit 47 %) vivent dans le périmètre du PPRi de la Marne de Vaires-sur-Marne à Chelles, en cours d'élaboration, et un plan de prévention des mouvements de terrain liés aux anciennes carrières a été prescrit en 1999, en plus de celui des tassements différentiels (argiles) prescrit en 2001.",
+  "quartiers": [
+   "Gambetta",
+   "Les Coudreaux",
+   "Les Arcades",
+   "Les Monts-Chalats",
+   "Les Abbesses",
+   "Chantereine"
+  ],
+  "reperes": [
+   "Abbaye de Chelles",
+   "Église Saint-André",
+   "Parc du Souvenir Émile-Fouchard",
+   "Réserve naturelle régionale des îles de Chelles"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Chelles",
+   "https://www.communes.com/ville-chelles-77",
+   "https://www.communes.com/risques-chelles-77",
+   "https://www.villesavivre.fr/chelles-77108/",
+   "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/6_-_ppri_de_la_marne_de_vaires-sur-marne_a_chelles_77__cle571d2c.pdf",
+   "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/211004_ppri_chelles_77_decision_cle684846.pdf"
+  ]
+ },
+ {
+  "slug": "gressy",
+  "name": "Gressy",
+  "bati": "Gressy est un petit village bordé à l'est par la Beuvronne et traversé par le canal de l'Ourcq. Ses 346 logements (2014) sont à 87,9 % des maisons, occupées à 89,7 % par leurs propriétaires. Autour de l'église Saint-Denis, des XIIIe et XVIIe siècles, le bâti du village voisine avec deux demeures : le manoir de Clairefontaine, dont les jardins ont été dessinés par André Le Nôtre, et le manoir de Gressy, devenu hôtel. Près de la Beuvronne et du canal, ce sont les feuilles et la mousse qui dictent le rythme d'entretien des toitures et des chéneaux.",
+  "patrimoine": "",
+  "risques": "La sécheresse a été reconnue en catastrophe naturelle à Gressy pour des mouvements de terrain différentiels survenus de 1989 à 1997, et trois arrêtés y concernent des inondations et coulées de boue (1982, 1983, 1999).",
+  "quartiers": [
+   "Le village",
+   "Clairefontaine"
+  ],
+  "reperes": [
+   "Église Saint-Denis",
+   "Manoir de Clairefontaine",
+   "La Beuvronne",
+   "Canal de l'Ourcq"
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Gressy_(Seine-et-Marne)",
+   "https://www.communes.com/ville-gressy",
+   "https://www.communes.com/risques-gressy"
+  ]
+ },
+ {
+  "slug": "champs-sur-marne",
+  "name": "Champs-sur-Marne",
+  "bati": "Rebaptisée Champs-sur-Marne en 1962, la commune de la rive gauche de la Marne a été intégrée au secteur II de Marne-la-Vallée (Val Maubuée), et 85 % de ses logements ont été construits après 1970. Les appartements dominent (72,3 %), mais les maisons représentent encore 27,7 % du parc. Les maisons individuelles de la ville nouvelle, des années 1970 et 1980, atteignent l'âge des premiers gros travaux de toiture ; près de la Marne et des grands arbres du parc du château, les mousses et les feuilles demandent un entretien plus suivi des toitures et des gouttières.",
+  "patrimoine": "Le domaine national de Champs-sur-Marne, avec son château, est protégé au titre des monuments historiques : dans son périmètre de 500 m, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Environ 50 ha de Champs-sur-Marne (6 % du territoire) sont exposés aux crues de la Marne, encadrées par le plan des surfaces submersibles de 1994 en attendant le PPRi de la Marne de Vaires-sur-Marne à Chelles, et un plan de prévention des tassements différentiels (argiles) a été prescrit en 2001.",
+  "quartiers": [
+   "Le centre ancien",
+   "Les bords de Marne"
+  ],
+  "reperes": [
+   "Château de Champs-sur-Marne",
+   "Gare de Noisy - Champs (RER A)",
+   "Hôtel de ville (2002)",
+   "La Marne"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Champs-sur-Marne",
+   "https://www.villesavivre.fr/champs-sur-marne-77083/",
+   "https://www.communes.com/ville-champs-sur-marne",
+   "https://www.communes.com/risques-champs-sur-marne",
+   "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/211004_ppri_chelles_77_decision_cle684846.pdf"
+  ]
+ },
+ {
+  "slug": "villeneuve-saint-denis",
+  "name": "Villeneuve-Saint-Denis",
+  "bati": "Villeneuve-Saint-Denis, rattachée au Val d'Europe (secteur IV de Marne-la-Vallée), s'est construite autour de l'église Sainte-Christine, du XIIe siècle, d'où part la rue du Bout du Monde ; la commune compte aussi le château de la Guette. Les maisons y représentent 61,5 % des logements, occupés à 78,9 % par leurs propriétaires, et environ 60 % du parc est postérieur à 1970 : le bâti ancien du village garde donc un poids réel à côté des constructions plus récentes. Sur les maisons anciennes, chaque réfection est l'occasion de vérifier les solins et les rives ; les constructions plus récentes relèvent surtout de l'entretien courant des couvertures et des zingueries.",
+  "patrimoine": "",
+  "risques": "Seuls deux arrêtés de catastrophe naturelle, pour des inondations et coulées de boue (avril 1983 et décembre 1999), ont été pris à Villeneuve-Saint-Denis.",
+  "quartiers": [
+   "Le village",
+   "La Guette"
+  ],
+  "reperes": [
+   "Église Sainte-Christine",
+   "Château de la Guette",
+   "Rue du Bout du Monde"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/villeneuve-saint-denis-77510/",
+   "https://en.wikipedia.org/wiki/Marne-la-Vall%C3%A9e",
+   "https://www.communes.com/ville-villeneuve-saint-denis",
+   "https://www.communes.com/risques-villeneuve-saint-denis"
+  ]
+ },
+ {
+  "slug": "villeparisis",
+  "name": "Villeparisis",
+  "bati": "Villeparisis compte aujourd'hui un peu plus d'appartements (56,2 %) que de maisons (43,8 %), et les trois quarts de ses logements ont été construits après 1970. Le quartier de Bois-Fleuri, partagé avec Claye-Souilly, est né d'un lotissement de 1929 sur des terrains marécageux, régularisé seulement en 1965. Une partie du territoire est occupée par la carrière de gypse à ciel ouvert exploitée par Placoplatre entre Le Pin, Villeparisis et Villevaudé, dont l'entrée se trouve route de Villevaudé. Sur les pavillons des années 1970 et 1980, un remplacement de couverture est aussi le bon moment pour traiter l'isolation des combles.",
+  "patrimoine": "",
+  "risques": "Villeparisis est soumise à un plan de prévention des risques de mouvements de terrain (tassements différentiels liés au retrait-gonflement des argiles, prescrit le 11 juillet 2001), et la ville signale encore des arrêtés de catastrophe naturelle liés à la sécheresse et aux mouvements de terrain différentiels en 2020 et 2021.",
+  "quartiers": [
+   "Bois-Fleuri",
+   "Montzaigle",
+   "Le centre (place du marché)"
+  ],
+  "reperes": [
+   "Église Saint-Martin",
+   "Parc Honoré-de-Balzac",
+   "Carrière de gypse Placoplatre (route de Villevaudé)"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/villeparisis-77514/",
+   "https://areq.net/lang/fr/Claye-Souilly.html",
+   "https://museeduplatre.fr/uploads/E8rDUF3d/VisitedelacarrieredeLePin-Villeparisis-Villevaude2025.pdf",
+   "https://villeparisis.fr/print/pdf/node/804",
+   "https://www.communes.com/ville-villeparisis",
+   "https://www.communes.com/risques-villeparisis"
+  ]
+ },
+ {
+  "slug": "saint-germain-sur-morin",
+  "name": "Saint-Germain-sur-Morin",
+  "bati": "Saint-Germain-sur-Morin, sur le Grand Morin et intégrée au Val d'Europe (secteur IV de Marne-la-Vallée), est une commune de maisons (79,6 % des logements), occupées à 83,7 % par leurs propriétaires. Les trois quarts du parc ont été construits après 1970, autour d'un village ancien d'où part le canal du Grand Morin, long de 3,4 km, qui le relie au canal de Chalifert à Esbly. Les pavillons des années 1970 et 1980 forment l'essentiel des toitures à rénover dans les prochaines années.",
+  "patrimoine": "",
+  "risques": "Saint-Germain-sur-Morin est couverte par le plan de prévention du risque inondation du Grand Morin, approuvé le 10 novembre 2006, et la commune a connu des arrêtés de catastrophe naturelle pour inondations en 1982, 1983, 1988, 1993, 1995, 1999 et 2002.",
+  "quartiers": [
+   "Le village",
+   "Les bords du Grand Morin"
+  ],
+  "reperes": [
+   "Le Grand Morin",
+   "Départ du canal du Grand Morin"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/saint-germain-sur-morin-77413/",
+   "https://fr.wikipedia.org/wiki/Canal_du_Grand_Morin",
+   "https://en.wikipedia.org/wiki/Marne-la-Vall%C3%A9e",
+   "https://www.communes.com/ville-saint-germain-sur-morin",
+   "https://www.communes.com/risques-saint-germain-sur-morin"
+  ]
+ },
+ {
+  "slug": "pontcarre",
+  "name": "Pontcarré",
+  "bati": "À Pontcarré, 82 % des logements ont été construits après 1970 et les maisons dominent (67,3 %), occupées à 81,1 % par leurs propriétaires : l'essentiel des toitures est celui de pavillons des dernières décennies. Le parc à l'anglaise du château de Ferrières, 125 ha, s'étend sur la commune, et près de ces grands arbres, les feuilles encombrent vite les gouttières et la mousse gagne les versants ombragés.",
+  "patrimoine": "Le domaine du château de Ferrières, classé monument historique, s'étend sur Pontcarré pour son parc : à proximité, les travaux de toiture visibles peuvent relever de l'avis de l'architecte des Bâtiments de France.",
+  "risques": "La sécheresse de l'été 2003 a été reconnue en catastrophe naturelle à Pontcarré pour des mouvements de terrain différentiels, tout comme les inondations et coulées de boue d'avril 1983 et de décembre 1999.",
+  "quartiers": [
+   "Le village"
+  ],
+  "reperes": [
+   "Parc du château de Ferrières",
+   "Église de Pontcarré",
+   "Mairie"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/pontcarre-77374/",
+   "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Ferri%C3%A8res_(Ferri%C3%A8res-en-Brie)",
+   "https://areq.net/lang/fr/Ferri%C3%A8res-en-Brie.html",
+   "https://www.communes.com/ville-pontcarre",
+   "https://www.communes.com/risques-pontcarre"
+  ]
+ },
+ {
+  "slug": "gournay-sur-marne",
+  "name": "Gournay-sur-Marne",
+  "bati": "Gournay-sur-Marne est une petite commune de 1,68 km² serrée contre la Marne, où les maisons représentent encore 59 % des logements, occupés à 69,6 % par leurs propriétaires. Sa population a presque doublé entre 1968 (3 922 habitants) et 2023 (7 320), avec une croissance plus forte dans les années 1980 et 1990, et 64 % du parc date d'après 1970 ; plus d'un tiers des logements est donc antérieur. Sur ces maisons anciennes, la réfection d'une couverture s'accompagne souvent d'une reprise des souches de cheminée et des solins.",
+  "patrimoine": "Le château de Gournay, du XVIIe siècle, qui abrite l'hôtel de ville depuis 1925, est monument historique depuis 1945 : dans son périmètre de 500 m, qui couvre le centre-ville, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Environ 85 % des habitants de Gournay-sur-Marne vivent en zone inondable selon le PPRI de la Marne en Seine-Saint-Denis, approuvé le 15 novembre 2010 sur la base de la crue de 1910, et un plan de prévention des tassements différentiels (argiles) a été prescrit en 2001.",
+  "quartiers": [
+   "Le centre (château-mairie)",
+   "Les bords de Marne",
+   "Le port"
+  ],
+  "reperes": [
+   "Château de Gournay (hôtel de ville)",
+   "Bords de Marne et guinguettes",
+   "Gare de Chelles - Gournay"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gournay-sur-Marne",
+   "https://www.villesavivre.fr/gournay-sur-marne-93033/",
+   "https://seine-saint-denis.gouv.fr/contenu/telechargement/1997/15094/file/note_presentation_ppri_marne_novembre_2010.pdf",
+   "https://www.communes.com/ville-gournay-sur-marne",
+   "https://www.communes.com/risques-gournay-sur-marne"
+  ]
+ },
+ {
+  "slug": "emerainville",
+  "name": "Émerainville",
+  "bati": "Émerainville est sortie de terre avec la ville nouvelle : 621 habitants en 1968, 2 453 en 1982, 6 766 en 1990, au fil de l'urbanisation du secteur II de Marne-la-Vallée (Val Maubuée). Aujourd'hui, 95 % des logements sont postérieurs à 1970 ; les appartements y sont majoritaires (59,2 %), mais les maisons forment encore 40,8 % du parc et 62,6 % des ménages sont propriétaires. La plupart des toitures datent donc des années 1975-1990 : sur les maisons, ce sont les couvertures, les solins et les zingueries qui sont à reprendre ; sur les immeubles, les étanchéités à contrôler.",
+  "patrimoine": "",
+  "risques": "Les dégâts liés à la sécheresse ont été reconnus en catastrophe naturelle à Émerainville pour la période 1989-1998 puis pour 2003 (mouvements de terrain différentiels), signe de sols sensibles au retrait-gonflement des argiles.",
+  "quartiers": [
+   "Malnoue",
+   "Le Bois d'Emery"
+  ],
+  "reperes": [
+   "Collège Vincent-Van-Gogh",
+   "Espace sportif Guy-Drut"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emerainville",
+   "https://www.villesavivre.fr/emerainville-77169/",
+   "https://fr.wikipedia.org/wiki/Politique_des_villes_nouvelles_fran%C3%A7aises",
+   "https://www.communes.com/ville-emerainville",
+   "https://www.communes.com/risques-emerainville"
+  ]
+ },
+ {
+  "slug": "noisy-le-grand",
+  "name": "Noisy-le-Grand",
+  "bati": "Noisy-le-Grand a été le premier secteur urbanisé de Marne-la-Vallée (secteur I, Porte de Paris) : 79 % de ses logements sont postérieurs à 1970 et les appartements dominent (75,7 %). Les maisons représentent tout de même près d'un quart du parc (24,3 %), ce qui représente, pour une ville de près de 73 000 habitants, un tissu pavillonnaire étendu. Pour les maisons des années 1970-1980, un diagnostic de la couverture d'origine et des zingueries s'impose avant toute rénovation.",
+  "patrimoine": "L'église Saint-Sulpice et Notre-Dame (rue de la Baignade), l'ancien domaine de Villeflix (allée de la Grotte) et la croix du cimetière sont protégés au titre des monuments historiques : dans leurs périmètres de 500 m, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Le PPRI de la Marne en Seine-Saint-Denis, approuvé le 15 novembre 2010, ne concerne qu'environ 3 % des Noiséens, surtout sur les bords de Marne (Rive Charmante, zone d'activités de la Varenne), et un plan de prévention des tassements différentiels (argiles) a été prescrit en 2001.",
+  "quartiers": [
+   "Centre ancien (église Saint-Sulpice)",
+   "Villeflix",
+   "La Rive Charmante",
+   "La Varenne"
+  ],
+  "reperes": [
+   "Église Saint-Sulpice et Notre-Dame",
+   "Domaine de Villeflix",
+   "Bords de Marne et Coulée verte"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/noisy-le-grand-93051/",
+   "https://fr.wikipedia.org/wiki/Politique_des_villes_nouvelles_fran%C3%A7aises",
+   "https://www.communes.com/ville-noisy-le-grand",
+   "https://www.communes.com/risques-noisy-le-grand",
+   "https://seine-saint-denis.gouv.fr/contenu/telechargement/1997/15094/file/note_presentation_ppri_marne_novembre_2010.pdf"
+  ]
+ },
+ {
+  "slug": "mitry-mory",
+  "name": "Mitry-Mory",
+  "bati": "Malgré ses quelque 20 000 habitants, Mitry-Mory reste majoritairement une ville de maisons (64,6 % des logements), et 64 % de son parc a été construit après 1970. Plus d'un tiers des logements est donc antérieur à 1970. Sur les maisons d'avant 1970, la vérification des souches de cheminée et des noues accompagne toute réfection ; les pavillons des décennies suivantes posent plutôt la question de l'isolation des combles lors du remplacement de la couverture.",
+  "patrimoine": "L'église Saint-Martin de Mitry-Mory est protégée au titre des monuments historiques : dans un rayon de 500 m, les travaux de toiture visibles sont soumis à l'avis de l'architecte des Bâtiments de France.",
+  "risques": "Des dégâts liés à la sécheresse ont été reconnus en catastrophe naturelle à Mitry-Mory pour les périodes 1989-1991 et 1992-1998, et plusieurs arrêtés y concernent des inondations et coulées de boue, le dernier en 2006.",
+  "quartiers": [
+   "Mitry (centre)",
+   "Mory",
+   "Le quartier de la gare"
+  ],
+  "reperes": [
+   "Église Saint-Martin",
+   "Gare de Mitry - Claye",
+   "L'Atelier, espace arts plastiques"
+  ],
+  "sources": [
+   "https://www.villesavivre.fr/mitry-mory-77294/",
+   "https://areq.net/lang/fr/Claye-Souilly.html",
+   "https://www.communes.com/ville-mitry-mory",
+   "https://www.communes.com/risques-mitry-mory"
+  ]
+ }
+]

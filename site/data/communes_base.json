@@ -1,0 +1,937 @@
+[
+ {
+  "name": "Thorigny-sur-Marne",
+  "slug": "thorigny-sur-marne",
+  "insee": "77464",
+  "cp": [
+   "77400"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 10440,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.88689,
+  "lon": 2.71806,
+  "dist": 0.0,
+  "bearing": 0,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Dampmart",
+  "slug": "dampmart",
+  "insee": "77155",
+  "cp": [
+   "77400"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 3677,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.88854,
+  "lon": 2.74095,
+  "dist": 1.7,
+  "bearing": 84,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Carnetin",
+  "slug": "carnetin",
+  "insee": "77062",
+  "cp": [
+   "77400"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 461,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.9006,
+  "lon": 2.7003,
+  "dist": 2.0,
+  "bearing": 320,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Lagny-sur-Marne",
+  "slug": "lagny-sur-marne",
+  "insee": "77243",
+  "cp": [
+   "77400"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 21461,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.86667,
+  "lon": 2.71667,
+  "dist": 2.3,
+  "bearing": 183,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Pomponne",
+  "slug": "pomponne",
+  "insee": "77372",
+  "cp": [
+   "77400"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 4215,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.8813,
+  "lon": 2.68232,
+  "dist": 2.7,
+  "bearing": 257,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Montévrain",
+  "slug": "montevrain",
+  "insee": "77307",
+  "cp": [
+   "77144"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 15687,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.87415,
+  "lon": 2.75114,
+  "dist": 2.8,
+  "bearing": 120,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Saint-Thibault-des-Vignes",
+  "slug": "saint-thibault-des-vignes",
+  "insee": "77438",
+  "cp": [
+   "77400"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 6831,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.87111,
+  "lon": 2.68041,
+  "dist": 3.3,
+  "bearing": 238,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Conches-sur-Gondoire",
+  "slug": "conches-sur-gondoire",
+  "insee": "77124",
+  "cp": [
+   "77600"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1761,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.85624,
+  "lon": 2.71783,
+  "dist": 3.4,
+  "bearing": 180,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Chessy",
+  "slug": "chessy",
+  "insee": "77111",
+  "cp": [
+   "77700"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 7771,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.88333,
+  "lon": 2.76667,
+  "dist": 3.6,
+  "bearing": 96,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Gouvernes",
+  "slug": "gouvernes",
+  "insee": "77209",
+  "cp": [
+   "77400"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1177,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.86007,
+  "lon": 2.69074,
+  "dist": 3.6,
+  "bearing": 214,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Chanteloup-en-Brie",
+  "slug": "chanteloup-en-brie",
+  "insee": "77085",
+  "cp": [
+   "77600"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 4130,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.85478,
+  "lon": 2.73929,
+  "dist": 3.9,
+  "bearing": 156,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Guermantes",
+  "slug": "guermantes",
+  "insee": "77221",
+  "cp": [
+   "77600"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1153,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.85303,
+  "lon": 2.70495,
+  "dist": 3.9,
+  "bearing": 194,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Chalifert",
+  "slug": "chalifert",
+  "insee": "77075",
+  "cp": [
+   "77144"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1584,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.88993,
+  "lon": 2.77339,
+  "dist": 4.1,
+  "bearing": 85,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Annet-sur-Marne",
+  "slug": "annet-sur-marne",
+  "insee": "77005",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 3408,
+  "epci": "CC Plaines et Monts de France",
+  "lat": 48.92669,
+  "lon": 2.71959,
+  "dist": 4.4,
+  "bearing": 1,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Bussy-Saint-Martin",
+  "slug": "bussy-saint-martin",
+  "insee": "77059",
+  "cp": [
+   "77600"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 738,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.84898,
+  "lon": 2.69044,
+  "dist": 4.7,
+  "bearing": 206,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Jablines",
+  "slug": "jablines",
+  "insee": "77234",
+  "cp": [
+   "77450"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 647,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.91768,
+  "lon": 2.76349,
+  "dist": 4.8,
+  "bearing": 44,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Bussy-Saint-Georges",
+  "slug": "bussy-saint-georges",
+  "insee": "77058",
+  "cp": [
+   "77600"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 27498,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.84099,
+  "lon": 2.70165,
+  "dist": 5.2,
+  "bearing": 193,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Lesches",
+  "slug": "lesches",
+  "insee": "77248",
+  "cp": [
+   "77450"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 763,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.90952,
+  "lon": 2.78245,
+  "dist": 5.3,
+  "bearing": 62,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Coupvray",
+  "slug": "coupvray",
+  "insee": "77132",
+  "cp": [
+   "77700"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 3066,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.89289,
+  "lon": 2.7967,
+  "dist": 5.8,
+  "bearing": 83,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Vaires-sur-Marne",
+  "slug": "vaires-sur-marne",
+  "insee": "77479",
+  "cp": [
+   "77360"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 13931,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.87649,
+  "lon": 2.63982,
+  "dist": 5.8,
+  "bearing": 259,
+  "group": "Chelles, Vaires et la Marne aval"
+ },
+ {
+  "name": "Villevaudé",
+  "slug": "villevaude",
+  "insee": "77517",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 2132,
+  "epci": "CC Plaines et Monts de France",
+  "lat": 48.91751,
+  "lon": 2.65228,
+  "dist": 5.9,
+  "bearing": 305,
+  "group": "Chelles, Vaires et la Marne aval"
+ },
+ {
+  "name": "Jossigny",
+  "slug": "jossigny",
+  "insee": "77237",
+  "cp": [
+   "77600"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 650,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.83765,
+  "lon": 2.75432,
+  "dist": 6.1,
+  "bearing": 154,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Brou-sur-Chantereine",
+  "slug": "brou-sur-chantereine",
+  "insee": "77055",
+  "cp": [
+   "77177"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 5196,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.88333,
+  "lon": 2.63333,
+  "dist": 6.2,
+  "bearing": 266,
+  "group": "Chelles, Vaires et la Marne aval"
+ },
+ {
+  "name": "Fresnes-sur-Marne",
+  "slug": "fresnes-sur-marne",
+  "insee": "77196",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 948,
+  "epci": "CC Plaines et Monts de France",
+  "lat": 48.9408,
+  "lon": 2.7425,
+  "dist": 6.3,
+  "bearing": 17,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Précy-sur-Marne",
+  "slug": "precy-sur-marne",
+  "insee": "77376",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 747,
+  "epci": "CC Plaines et Monts de France",
+  "lat": 48.9308,
+  "lon": 2.77445,
+  "dist": 6.4,
+  "bearing": 40,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Torcy",
+  "slug": "torcy",
+  "insee": "77468",
+  "cp": [
+   "77200"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 22810,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.85064,
+  "lon": 2.65078,
+  "dist": 6.4,
+  "bearing": 231,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Collégien",
+  "slug": "collegien",
+  "insee": "77121",
+  "cp": [
+   "77090"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 3354,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.83571,
+  "lon": 2.67365,
+  "dist": 6.6,
+  "bearing": 210,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Serris",
+  "slug": "serris",
+  "insee": "77449",
+  "cp": [
+   "77700"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 10326,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.84528,
+  "lon": 2.78611,
+  "dist": 6.8,
+  "bearing": 133,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Claye-Souilly",
+  "slug": "claye-souilly",
+  "insee": "77118",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 13353,
+  "epci": "CA Roissy Pays de France",
+  "lat": 48.94492,
+  "lon": 2.68566,
+  "dist": 6.9,
+  "bearing": 340,
+  "group": "Plaine de France : Claye, Villeparisis, Mitry"
+ },
+ {
+  "name": "Ferrières-en-Brie",
+  "slug": "ferrieres-en-brie",
+  "insee": "77181",
+  "cp": [
+   "77164"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 3932,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.82352,
+  "lon": 2.70664,
+  "dist": 7.1,
+  "bearing": 187,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Esbly",
+  "slug": "esbly",
+  "insee": "77171",
+  "cp": [
+   "77450"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 6072,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.9052,
+  "lon": 2.81235,
+  "dist": 7.2,
+  "bearing": 74,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Le Pin",
+  "slug": "le-pin",
+  "insee": "77363",
+  "cp": [
+   "77181"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1530,
+  "epci": "CC Plaines et Monts de France",
+  "lat": 48.91523,
+  "lon": 2.62841,
+  "dist": 7.3,
+  "bearing": 296,
+  "group": "Chelles, Vaires et la Marne aval"
+ },
+ {
+  "name": "Croissy-Beaubourg",
+  "slug": "croissy-beaubourg",
+  "insee": "77146",
+  "cp": [
+   "77183"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 2018,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.8283,
+  "lon": 2.66964,
+  "dist": 7.4,
+  "bearing": 209,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Magny-le-Hongre",
+  "slug": "magny-le-hongre",
+  "insee": "77268",
+  "cp": [
+   "77700"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 9060,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.86325,
+  "lon": 2.81546,
+  "dist": 7.6,
+  "bearing": 110,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Charmentray",
+  "slug": "charmentray",
+  "insee": "77094",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 291,
+  "epci": "CC Plaines et Monts de France",
+  "lat": 48.9461,
+  "lon": 2.7764,
+  "dist": 7.8,
+  "bearing": 33,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Montry",
+  "slug": "montry",
+  "insee": "77315",
+  "cp": [
+   "77450"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 3945,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.88409,
+  "lon": 2.82915,
+  "dist": 8.1,
+  "bearing": 92,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Noisiel",
+  "slug": "noisiel",
+  "insee": "77337",
+  "cp": [
+   "77186"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 16053,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.84868,
+  "lon": 2.62435,
+  "dist": 8.1,
+  "bearing": 238,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Isles-lès-Villenoy",
+  "slug": "isles-les-villenoy",
+  "insee": "77232",
+  "cp": [
+   "77450"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1129,
+  "epci": "CA du Pays de Meaux",
+  "lat": 48.91248,
+  "lon": 2.82724,
+  "dist": 8.5,
+  "bearing": 70,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Lognes",
+  "slug": "lognes",
+  "insee": "77258",
+  "cp": [
+   "77185"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 15074,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.83541,
+  "lon": 2.62998,
+  "dist": 8.6,
+  "bearing": 228,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Bailly-Romainvilliers",
+  "slug": "bailly-romainvilliers",
+  "insee": "77018",
+  "cp": [
+   "77700"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 6980,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.84729,
+  "lon": 2.82352,
+  "dist": 8.9,
+  "bearing": 120,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Condé-Sainte-Libiaire",
+  "slug": "conde-sainte-libiaire",
+  "insee": "77125",
+  "cp": [
+   "77450"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1500,
+  "epci": "CA Coulommiers Pays de Brie",
+  "lat": 48.89695,
+  "lon": 2.83904,
+  "dist": 8.9,
+  "bearing": 83,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Trilbardou",
+  "slug": "trilbardou",
+  "insee": "77474",
+  "cp": [
+   "77450"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 700,
+  "epci": "CA du Pays de Meaux",
+  "lat": 48.94251,
+  "lon": 2.80622,
+  "dist": 8.9,
+  "bearing": 46,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Messy",
+  "slug": "messy",
+  "insee": "77292",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1219,
+  "epci": "CC Plaines et Monts de France",
+  "lat": 48.96667,
+  "lon": 2.7,
+  "dist": 9.0,
+  "bearing": 352,
+  "group": "Plaine de France : Claye, Villeparisis, Mitry"
+ },
+ {
+  "name": "Courtry",
+  "slug": "courtry",
+  "insee": "77139",
+  "cp": [
+   "77181"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 7330,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.91906,
+  "lon": 2.60431,
+  "dist": 9.1,
+  "bearing": 293,
+  "group": "Chelles, Vaires et la Marne aval"
+ },
+ {
+  "name": "Chelles",
+  "slug": "chelles",
+  "insee": "77108",
+  "cp": [
+   "77500"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 54620,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.88109,
+  "lon": 2.59295,
+  "dist": 9.2,
+  "bearing": 266,
+  "group": "Chelles, Vaires et la Marne aval"
+ },
+ {
+  "name": "Gressy",
+  "slug": "gressy",
+  "insee": "77214",
+  "cp": [
+   "77410"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 807,
+  "epci": "CA Roissy Pays de France",
+  "lat": 48.96487,
+  "lon": 2.6735,
+  "dist": 9.3,
+  "bearing": 339,
+  "group": "Plaine de France : Claye, Villeparisis, Mitry"
+ },
+ {
+  "name": "Champs-sur-Marne",
+  "slug": "champs-sur-marne",
+  "insee": "77083",
+  "cp": [
+   "77420"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 27451,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.85,
+  "lon": 2.6,
+  "dist": 9.6,
+  "bearing": 245,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Villeneuve-Saint-Denis",
+  "slug": "villeneuve-saint-denis",
+  "insee": "77510",
+  "cp": [
+   "77174"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 1369,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.81578,
+  "lon": 2.79353,
+  "dist": 9.6,
+  "bearing": 145,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Villeparisis",
+  "slug": "villeparisis",
+  "insee": "77514",
+  "cp": [
+   "77270"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 26946,
+  "epci": "CA Roissy Pays de France",
+  "lat": 48.94208,
+  "lon": 2.61463,
+  "dist": 9.7,
+  "bearing": 309,
+  "group": "Plaine de France : Claye, Villeparisis, Mitry"
+ },
+ {
+  "name": "Saint-Germain-sur-Morin",
+  "slug": "saint-germain-sur-morin",
+  "insee": "77413",
+  "cp": [
+   "77860"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 3902,
+  "epci": "CA Val d'Europe Agglomération",
+  "lat": 48.88257,
+  "lon": 2.85127,
+  "dist": 9.8,
+  "bearing": 93,
+  "group": "Vallée de la Marne, de Thorigny à Esbly"
+ },
+ {
+  "name": "Pontcarré",
+  "slug": "pontcarre",
+  "insee": "77374",
+  "cp": [
+   "77135"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 2136,
+  "epci": "CA Marne et Gondoire",
+  "lat": 48.79772,
+  "lon": 2.70508,
+  "dist": 10.0,
+  "bearing": 185,
+  "group": "Villages de la Gondoire et de la Brie"
+ },
+ {
+  "name": "Gournay-sur-Marne",
+  "slug": "gournay-sur-marne",
+  "insee": "93033",
+  "cp": [
+   "93460"
+  ],
+  "dept": "93",
+  "dept_name": "Seine-Saint-Denis",
+  "pop": 7320,
+  "epci": "Métropole du Grand Paris",
+  "lat": 48.86223,
+  "lon": 2.58452,
+  "dist": 10.1,
+  "bearing": 254,
+  "group": "Chelles, Vaires et la Marne aval"
+ },
+ {
+  "name": "Émerainville",
+  "slug": "emerainville",
+  "insee": "77169",
+  "cp": [
+   "77184"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 7690,
+  "epci": "CA Paris - Vallée de la Marne",
+  "lat": 48.81276,
+  "lon": 2.62139,
+  "dist": 10.9,
+  "bearing": 221,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Noisy-le-Grand",
+  "slug": "noisy-le-grand",
+  "insee": "93051",
+  "cp": [
+   "93160"
+  ],
+  "dept": "93",
+  "dept_name": "Seine-Saint-Denis",
+  "pop": 72978,
+  "epci": "Métropole du Grand Paris",
+  "lat": 48.84979,
+  "lon": 2.56266,
+  "dist": 12.1,
+  "bearing": 250,
+  "group": "Marne-la-Vallée et Val d'Europe"
+ },
+ {
+  "name": "Mitry-Mory",
+  "slug": "mitry-mory",
+  "insee": "77294",
+  "cp": [
+   "77290"
+  ],
+  "dept": "77",
+  "dept_name": "Seine-et-Marne",
+  "pop": 20456,
+  "epci": "CA Roissy Pays de France",
+  "lat": 48.98333,
+  "lon": 2.61667,
+  "dist": 13.0,
+  "bearing": 325,
+  "group": "Plaine de France : Claye, Villeparisis, Mitry"
+ }
+]

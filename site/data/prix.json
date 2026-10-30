@@ -1,0 +1,183 @@
+{
+ "_note": "Fourchettes indicatives 2026, Île-de-France, fourniture et pose, TTC. Prix ferme après visite. Ces chiffres doivent être repris tels quels dans tous les textes.",
+ "refection_tuiles": [
+  130,
+  250,
+  "€/m²",
+  "Réfection complète en tuiles (dépose, écran sous-toiture, liteaux, tuiles neuves)"
+ ],
+ "refection_tuiles_meca": [
+  130,
+  180,
+  "€/m²",
+  "Réfection en tuiles mécaniques terre cuite"
+ ],
+ "refection_tuiles_plates": [
+  180,
+  250,
+  "€/m²",
+  "Réfection en petites tuiles plates"
+ ],
+ "refection_ardoise": [
+  160,
+  300,
+  "€/m²",
+  "Réfection en ardoise naturelle"
+ ],
+ "couverture_zinc": [
+  120,
+  220,
+  "€/m²",
+  "Couverture zinc à joint debout"
+ ],
+ "bac_acier": [
+  90,
+  140,
+  "€/m²",
+  "Couverture bac acier (annexe, garage, extension)"
+ ],
+ "remaniement": [
+  35,
+  80,
+  "€/m²",
+  "Remaniement (tuiles déposées, triées, reposées, casse remplacée)"
+ ],
+ "reparation": [
+  250,
+  900,
+  "€",
+  "Réparation ponctuelle (tuiles, faîtière, solin), par intervention"
+ ],
+ "recherche_fuite": [
+  150,
+  450,
+  "€",
+  "Recherche de fuite"
+ ],
+ "bachage": [
+  300,
+  1200,
+  "€",
+  "Bâchage d'urgence, selon surface et accès"
+ ],
+ "demoussage": [
+  15,
+  30,
+  "€/m²",
+  "Démoussage et traitement anti-mousse"
+ ],
+ "demoussage_hydrofuge": [
+  25,
+  45,
+  "€/m²",
+  "Démoussage, anti-mousse et hydrofuge"
+ ],
+ "gouttiere_zinc": [
+  45,
+  90,
+  "€/ml",
+  "Gouttière zinc posée"
+ ],
+ "gouttiere_pvc": [
+  30,
+  60,
+  "€/ml",
+  "Gouttière PVC posée"
+ ],
+ "descente_zinc": [
+  40,
+  80,
+  "€/ml",
+  "Descente d'eaux pluviales zinc"
+ ],
+ "faitage": [
+  40,
+  90,
+  "€/ml",
+  "Réfection de faîtage (scellé ou à sec ventilé)"
+ ],
+ "solin": [
+  250,
+  700,
+  "€",
+  "Solin de cheminée refait"
+ ],
+ "souche_cheminee": [
+  900,
+  2800,
+  "€",
+  "Réfection d'une souche de cheminée"
+ ],
+ "ramonage": [
+  60,
+  110,
+  "€",
+  "Ramonage, par conduit, certificat remis"
+ ],
+ "sarking": [
+  160,
+  280,
+  "€/m²",
+  "Isolation par l'extérieur (sarking), couverture refaite"
+ ],
+ "isolation_rampants": [
+  40,
+  90,
+  "€/m²",
+  "Isolation des rampants par l'intérieur"
+ ],
+ "isolation_combles_perdus": [
+  20,
+  40,
+  "€/m²",
+  "Isolation des combles perdus par soufflage"
+ ],
+ "velux_remplacement": [
+  700,
+  1500,
+  "€",
+  "Remplacement d'une fenêtre de toit"
+ ],
+ "velux_creation": [
+  1200,
+  2800,
+  "€",
+  "Création d'une fenêtre de toit (ouverture, raccords, finitions)"
+ ],
+ "traitement_charpente": [
+  25,
+  45,
+  "€/m²",
+  "Traitement curatif de charpente"
+ ],
+ "charpente_neuve": [
+  80,
+  160,
+  "€/m²",
+  "Charpente traditionnelle neuve ou remplacée"
+ ],
+ "etancheite_epdm": [
+  70,
+  130,
+  "€/m²",
+  "Étanchéité de toit plat EPDM"
+ ],
+ "etancheite_bitume": [
+  60,
+  120,
+  "€/m²",
+  "Étanchéité bitumineuse (toit plat)"
+ ],
+ "bardage": [
+  60,
+  160,
+  "€/m²",
+  "Bardage (bois, composite, fibres-ciment, zinc)"
+ ],
+ "amenagement_combles": [
+  600,
+  1500,
+  "€/m²",
+  "Aménagement de combles (isolation, plancher, cloisons, finitions)"
+ ]
+}
