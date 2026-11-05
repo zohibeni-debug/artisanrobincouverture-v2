@@ -1,5 +1,5 @@
 /**
- * ARTISAN ROBIN COUVERTURE (artisanrobincouverture.fr) : petit serveur Cloudflare.
+ * ARTISAN ROBIN COUVERTURE (couvreur-thorignysurmarne.fr) : petit serveur Cloudflare.
  *
  * Les pages du site sont des fichiers statiques (dossier public/), servies directement par Cloudflare.
  * Ce script ne traite qu'une adresse : POST /api/devis, le formulaire de demande de devis.
@@ -10,14 +10,14 @@
  * Réglages facultatifs (Workers & Pages > artisanrobincouverture-v2 > Settings > Variables and Secrets) :
  *   DEVIS_TO        adresse(s) qui reçoivent les demandes, séparées par des virgules
  *                   (par défaut : contact@artisanrobincouverture.fr)
- *   DEVIS_FROM      expéditeur, ex. « Site Artisan Robin <devis@artisanrobincouverture.fr> »
+ *   DEVIS_FROM      expéditeur, ex. « Site Artisan Robin <devis@couvreur-thorignysurmarne.fr> »
  *   RESEND_API_KEY  envoi de secours par Resend si Cloudflare échoue (facultatif)
  *
  * Si aucun envoi ne fonctionne, l'API répond une erreur et la page propose WhatsApp ou SMS.
  */
 
 const DEFAULT_TO = "contact@artisanrobincouverture.fr";
-const DEFAULT_FROM = "Site Artisan Robin <devis@artisanrobincouverture.fr>";
+const DEFAULT_FROM = "Site Artisan Robin <devis@couvreur-thorignysurmarne.fr>";
 
 const SECURITY_HEADERS = {
   "X-Content-Type-Options": "nosniff",
@@ -118,7 +118,7 @@ async function handleDevis(request, env) {
     subject: `Devis : ${d.type} à ${d.commune} (${d.nom})`,
     replyTo: d.email || undefined,
     text: [
-      "Nouvelle demande de devis depuis le site artisanrobincouverture.fr",
+      "Nouvelle demande de devis depuis le site couvreur-thorignysurmarne.fr",
       "",
       `Nom : ${d.nom}`,
       `Téléphone : ${d.telephone}`,
@@ -126,7 +126,7 @@ async function handleDevis(request, env) {
       `Commune : ${d.commune}`,
       `Travaux : ${d.type}`,
       `Rappel souhaité : ${d.rappel}`,
-      d.page ? `Page d'envoi : https://artisanrobincouverture.fr${d.page}` : "",
+      d.page ? `Page d'envoi : https://couvreur-thorignysurmarne.fr${d.page}` : "",
       "",
       d.message,
       "",

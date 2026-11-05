@@ -1,8 +1,8 @@
-# artisanrobincouverture.fr : site d'ARTISAN ROBIN COUVERTURE
+# couvreur-thorignysurmarne.fr : site d'ARTISAN ROBIN COUVERTURE
 
-Site du charpentier-couvreur-zingueur Artisan Robin, recentré sur **Thorigny-sur-Marne (77400)** et les communes autour. Les pages sont en HTML complet, lisibles par Google sans JavaScript. Le site est hébergé sur Cloudflare : un Worker sert les fichiers statiques et traite le formulaire de devis.
+Site du charpentier-couvreur-zingueur Artisan Robin consacré à **Thorigny-sur-Marne (77400)** et aux communes autour, publié sur `couvreur-thorignysurmarne.fr`. Le site historique `artisanrobincouverture.fr` reste en place à part. Les pages sont en HTML complet, lisibles par Google sans JavaScript. Le site est hébergé sur Cloudflare : un Worker sert les fichiers statiques et traite le formulaire de devis.
 
-94 pages indexables, aux mêmes adresses que l'ancien site (sans barre finale) :
+94 pages indexables, sans barre finale dans les adresses :
 - l'accueil (couvreur à Thorigny-sur-Marne) ;
 - la page Couverture et les 13 pages prestations `/couverture/<prestation>` ;
 - la page Zones et 54 pages `/zone/couvreur-<commune>` (rayon d'environ 15 km) ;
@@ -73,7 +73,15 @@ Réglages facultatifs (**Settings > Variables and Secrets**) : `DEVIS_TO` (desti
 
 Tant qu'aucun envoi ne fonctionne, le formulaire propose au visiteur d'envoyer sa demande par WhatsApp ou par SMS au 07 64 07 31 49.
 
-## Avant la bascule du domaine
+## Nom de domaine couvreur-thorignysurmarne.fr
+
+1. Ajouter le domaine dans Cloudflare (formule Free), puis remplacer chez le registrar les serveurs DNS par ceux indiqués par Cloudflare.
+2. Une fois le domaine « Active » : **Workers & Pages > artisanrobincouverture-v2 > Settings > Domains & Routes > Add > Custom domain**, entrer `couvreur-thorignysurmarne.fr`.
+3. Pour le `www` : enregistrement A `www` → `192.0.2.0` (proxy orange), puis la règle **Redirect from WWW to root** dans **Rules > Redirect Rules**. Le site est déclaré sans `www`.
+4. Formulaire : ajouter le domaine dans **Compute > Email Service > Email Sending > Onboard Domain** (expéditeur `devis@couvreur-thorignysurmarne.fr`), ou renseigner `RESEND_API_KEY`.
+5. Search Console : propriété de domaine `couvreur-thorignysurmarne.fr`, puis soumettre `https://couvreur-thorignysurmarne.fr/sitemap.xml`.
+
+## À confirmer avec le client
 
 À confirmer avec le client (voir `A_CONFIRMER` et `BUSINESS` dans `site/content.py`) :
 - l'adresse : le site garde le 22 avenue Augustin Pilardeau à Mitry-Mory tant qu'aucune adresse à Thorigny-sur-Marne n'est confirmée ;

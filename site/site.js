@@ -188,7 +188,7 @@
       status.focus();
     }
     function summary(d) {
-      return "Demande de devis (site artisanrobincouverture.fr)\n" +
+      return "Demande de devis (site couvreur-thorignysurmarne.fr)\n" +
         "Nom : " + d.nom + "\nTéléphone : " + d.telephone + "\n" +
         (d.email ? "Email : " + d.email + "\n" : "") +
         "Commune : " + d.commune + "\nTravaux : " + d.type + "\nRappel : " + d.rappel + "\n\n" + d.message;

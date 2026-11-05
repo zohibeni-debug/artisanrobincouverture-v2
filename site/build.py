@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Générateur du site artisanrobincouverture.fr (ARTISAN ROBIN COUVERTURE, Thorigny-sur-Marne et alentour).
+"""Générateur du site couvreur-thorignysurmarne.fr (ARTISAN ROBIN COUVERTURE, Thorigny-sur-Marne et alentour).
 
 Usage : python3 site/build.py
 Produit public/ : pages HTML complètes (lisibles sans JavaScript), plan du site, robots, redirections, en-têtes.
@@ -1187,7 +1187,7 @@ def build_legal():
 <h2>Données personnelles</h2><p>Voir notre <a href="/politique-de-confidentialite">politique de confidentialité</a>.</p>
 <h2>Crédits</h2><p>Polices Montserrat et Inter (licence SIL Open Font License). Données communales : INSEE et Etalab (découpage administratif), GeoNames.</p>
 </div></section>"""
-    page("/mentions-legales", "Mentions légales | Artisan Robin Couverture", "Mentions légales du site artisanrobincouverture.fr : éditeur, hébergement, conception, propriété intellectuelle et crédits.",
+    page("/mentions-legales", "Mentions légales | Artisan Robin Couverture", "Mentions légales du site couvreur-thorignysurmarne.fr : éditeur, hébergement, conception, propriété intellectuelle et crédits.",
          body, crumbs=[("Mentions légales", "/mentions-legales")], robots="noindex,follow", cls="p-legal")
     body2 = f"""
 <section class="ph ph-plain"><div class="wrap narrow"><h1>Politique de confidentialité</h1></div></section>
@@ -1197,7 +1197,7 @@ def build_legal():
 <h2>Vos droits</h2><p>Conformément au règlement général sur la protection des données, vous disposez d'un droit d'accès, de rectification, d'effacement et d'opposition, en écrivant à <a href="mailto:{B['email']}">{B['email']}</a>. Vous pouvez aussi adresser une réclamation à la CNIL.</p>
 <h2>Cookies</h2><p>Ce site ne dépose aucun cookie de mesure d'audience ni de publicité. Les polices de caractères sont hébergées sur le site lui-même.</p>
 </div></section>"""
-    page("/politique-de-confidentialite", "Politique de confidentialité | Artisan Robin Couverture", "Politique de confidentialité d'artisanrobincouverture.fr : données du formulaire de devis, conservation, vos droits, cookies.",
+    page("/politique-de-confidentialite", "Politique de confidentialité | Artisan Robin Couverture", "Politique de confidentialité du site couvreur-thorignysurmarne.fr : données du formulaire de devis, conservation, vos droits, cookies.",
          body2, crumbs=[("Confidentialité", "/politique-de-confidentialite")], robots="noindex,follow", cls="p-legal")
 
 

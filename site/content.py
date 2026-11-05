@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Contenus communs du site artisanrobincouverture.fr : entreprise, prix, étapes, FAQ, avis, secteurs, redirections."""
+"""Contenus communs du site couvreur-thorignysurmarne.fr (ARTISAN ROBIN COUVERTURE) : entreprise, prix, étapes, FAQ, avis, secteurs, redirections."""
 import json
 import os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SITE_URL = "https://artisanrobincouverture.fr"
+SITE_URL = "https://couvreur-thorignysurmarne.fr"
 
 BUSINESS = {
     "name": "ARTISAN ROBIN COUVERTURE",

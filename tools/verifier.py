@@ -96,7 +96,7 @@ for rel, p in sorted(pages.items()):
         titles[p.title] += 1; descs[p.desc] += 1
         if len(p.title) > 65: errors.append(f"{rel}: titre long ({len(p.title)}) {p.title}")
         if not p.desc or len(p.desc) > 165 or len(p.desc) < 90: errors.append(f"{rel}: description {len(p.desc or '')} car.")
-        want = "https://artisanrobincouverture.fr" + rel
+        want = C.SITE_URL + rel
         if p.canon != want: errors.append(f"{rel}: canonical {p.canon}")
     words[rel] = len(re.findall(r"\w+", " ".join(p.text)))
 for t, n in titles.items():
