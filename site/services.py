@@ -178,10 +178,10 @@ SERVICES = [
         "nav": "Urgence et bâchage",
         "short": "Fuite, tempête, tuiles envolées : hors d'eau 7 j/7",
         "title": "Urgence toiture et bâchage à Thorigny-sur-Marne | 7 j/7",
-        "desc": "Urgence toiture à Thorigny-sur-Marne et alentour, 7 j/7 : bâchage, fuite, tuiles envolées après tempête. Mise hors d'eau rapide. Appelez le 07 64 07 31 49.",
+        "desc": "Urgence toiture à Thorigny-sur-Marne et alentour, 7 j/7 : bâchage, fuite, tuiles envolées après tempête. Mise hors d'eau rapide. Appelez le 06 66 55 35 62.",
         "h1": "Urgence toiture et bâchage à Thorigny-sur-Marne",
         "lead": "Tempête, chute d'arbre, infiltration soudaine : on intervient 7 jours sur 7 pour mettre votre maison hors d'eau avec une bâche arrimée, puis on chiffre la réparation définitive. Photos fournies pour votre assurance.",
-        "points": ["Joignables 7 j/7 au 07 64 07 31 49", "Bâche lestée et arrimée, pas seulement posée", "Photos et constat pour l'assureur", "Réparation définitive chiffrée dans la foulée"],
+        "points": ["Joignables 7 j/7 au 06 66 55 35 62", "Bâche lestée et arrimée, pas seulement posée", "Photos et constat pour l'assureur", "Réparation définitive chiffrée dans la foulée"],
         "prices": ["bachage", "recherche_fuite", "reparation"],
         "tags": ["urgence", "tuiles", "chantier"],
         "type": "Fuite / urgence",
@@ -192,7 +192,7 @@ SERVICES = [
 <li>Coupez l'électricité de la zone touchée si l'eau approche des plafonniers ou des prises.</li>
 <li>Placez des bassines, protégez meubles et sols, percez une poche d'eau au plafond seulement si vous savez le faire en sécurité.</li>
 <li>Prenez des photos des dégâts, dedans et dehors, depuis le sol.</li>
-<li>Appelez-nous au <a href="tel:+33764073149">07 64 07 31 49</a>, puis prévenez votre assureur.</li>
+<li>Appelez-nous au <a href="tel:+33666553562">06 66 55 35 62</a>, puis prévenez votre assureur.</li>
 </ol>"""),
             ("Le bâchage : une mise hors d'eau qui tient", """
 <p>Une bâche simplement posée s'envole à la première rafale. On utilise une bâche armée, déroulée par-dessus le faîtage quand c'est possible, lestée et arrimée sur les liteaux ou la charpente, sans percer la couverture saine. Elle protège la maison le temps de commander les matériaux et de planifier la réparation.</p>

@@ -71,7 +71,7 @@ Les demandes partent par email à `contact@artisanrobincouverture.fr` (valeur pa
 
 Réglages facultatifs (**Settings > Variables and Secrets**) : `DEVIS_TO` (destinataires séparés par des virgules), `DEVIS_FROM` (expéditeur vérifié), `RESEND_API_KEY`.
 
-Tant qu'aucun envoi ne fonctionne, le formulaire propose au visiteur d'envoyer sa demande par WhatsApp ou par SMS au 07 64 07 31 49.
+Tant qu'aucun envoi ne fonctionne, le formulaire propose au visiteur d'envoyer sa demande par WhatsApp ou par SMS au 06 66 55 35 62.
 
 ## Nom de domaine couvreur-thorignysurmarne.fr
 

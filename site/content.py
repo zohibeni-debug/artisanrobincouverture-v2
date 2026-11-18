@@ -11,9 +11,9 @@ BUSINESS = {
     "short": "Artisan Robin",
     "trades": "Charpentier, couvreur, zingueur",
     "manager": "Dusty Robin",
-    "phone": "07 64 07 31 49",
-    "phone_e164": "+33764073149",
-    "whatsapp": "33764073149",
+    "phone": "06 66 55 35 62",
+    "phone_e164": "+33666553562",
+    "whatsapp": "33666553562",
     # Ligne fixe affichée sur les camionnettes et les bâches de chantier
     "phone2": "09 82 27 89 92",
     "phone2_e164": "+33982278992",
@@ -85,7 +85,7 @@ WORK_TYPES = [
 ]
 
 STEPS = [
-    ("Vous appelez ou écrivez", "Au 07 64 07 31 49 ou par le formulaire. Une fuite ? Dites-le : on passe en priorité, 7 jours sur 7."),
+    ("Vous appelez ou écrivez", "Au 06 66 55 35 62 ou par le formulaire. Une fuite ? Dites-le : on passe en priorité, 7 jours sur 7."),
     ("On monte voir le toit", "Visite gratuite : tuiles, faîtage, solins, gouttières, charpente vue des combles. Photos à l'appui, on vous montre ce qu'on a vu."),
     ("Devis sous 24 heures", "Chaque poste a sa ligne : échafaudage, dépose, fournitures, main-d'œuvre, évacuation. Pas de forfait opaque."),
     ("Le chantier, à la date dite", "Protection du jardin et des façades, toit bâché chaque soir si la couverture est ouverte, chantier rangé et nettoyé."),
@@ -100,7 +100,7 @@ METIERS = [
 
 HOME_FAQ = [
     ("Intervenez-vous en urgence à Thorigny-sur-Marne ?",
-     "Oui, 7 jours sur 7. Après une tempête ou une infiltration, on bâche le toit pour mettre la maison hors d'eau, puis on chiffre la réparation définitive. Appelez le 07 64 07 31 49."),
+     "Oui, 7 jours sur 7. Après une tempête ou une infiltration, on bâche le toit pour mettre la maison hors d'eau, puis on chiffre la réparation définitive. Appelez le 06 66 55 35 62."),
     ("Le devis est-il gratuit ?",
      "Oui. La visite et le devis sont gratuits et sans engagement. Vous recevez un devis détaillé, poste par poste, sous 24 heures après la visite."),
     ("Combien coûte une réfection de toiture ?",

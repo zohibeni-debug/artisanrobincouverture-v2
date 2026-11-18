@@ -2,8 +2,8 @@
 (function () {
   "use strict";
 
-  var PHONE = "+33764073149";
-  var WHATSAPP = "33764073149";
+  var PHONE = "+33666553562";
+  var WHATSAPP = "33666553562";
   var doc = document;
   var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 

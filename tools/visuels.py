@@ -27,7 +27,7 @@ h1{{font-weight:800;font-size:56px;line-height:1.02;letter-spacing:-.02em}}
 .st{{position:absolute;left:520px;bottom:0;right:0;height:14px;background:repeating-linear-gradient(-55deg,#d10f18 0 26px,#141414 26px 36px)}}
 </style></head><body><div class="og"><div class="l">{LG.svg("stacked", "color", title="")}</div>
 <div class="r"><p class="k">Charpentier · Couvreur · Zingueur</p><h1>Couvreur à<br><span style="white-space:nowrap">Thorigny-sur-Marne</span></h1>
-<p class="s">Réfection, réparation, zinguerie · Urgences 7 j/7 · Devis sous 24 h</p><p class="t">07 64 07 31 49</p></div><div class="st"></div></div></body></html>"""
+<p class="s">Réfection, réparation, zinguerie · Urgences 7 j/7 · Devis sous 24 h</p><p class="t">06 66 55 35 62</p></div><div class="st"></div></div></body></html>"""
 
 ICON = f"""<html><head><style>{CSS}body{{background:transparent}}.i{{width:1024px;height:1024px;background:#fff;border-radius:__R__px;display:grid;place-items:center}}.i svg{{width:860px}}</style></head>
 <body><div class="i">{LG.svg("mark", "color", title="")}</div></body></html>"""

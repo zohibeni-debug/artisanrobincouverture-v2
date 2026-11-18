@@ -1078,7 +1078,7 @@ def build_contact():
 {form_section(title="Votre demande de devis")}
 """
     page("/contact", "Contact et devis couvreur | Artisan Robin, Thorigny-sur-Marne",
-         "Contactez Artisan Robin, couvreur à Thorigny-sur-Marne : 07 64 07 31 49, 7 j/7. Demande de devis gratuit en ligne, réponse sous 24 h.",
+         "Contactez Artisan Robin, couvreur à Thorigny-sur-Marne : 06 66 55 35 62, 7 j/7. Demande de devis gratuit en ligne, réponse sous 24 h.",
          body, crumbs=[("Contact", "/contact")], current="contact", priority="0.7", cls="p-contact",
          schema=[{"@context": "https://schema.org", "@type": "ContactPage", "url": URL + "/contact", "about": {"@id": ORG_ID}}])
 
